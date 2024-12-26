@@ -1,0 +1,1 @@
+- [Rust Atomics and Locks — Foreword by Paul E. McKenney](https://marabos.nl/atomics/foreword.html) 

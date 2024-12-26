@@ -1,0 +1,20 @@
+{
+  "immediateReplace": true,
+  "suggester": true,
+  "historyPriority": true,
+  "historyLimit": 100,
+  "history": [
+    ":star2:",
+    ":thumbsup:",
+    ":shushing_face:",
+    ":white_check_mark:",
+    ":stars:",
+    ":x:",
+    ":handshake:",
+    ":warning:",
+    ":smiley:",
+    ":hammer:",
+    ":2nd_place_medal:",
+    ":star:"
+  ]
+}

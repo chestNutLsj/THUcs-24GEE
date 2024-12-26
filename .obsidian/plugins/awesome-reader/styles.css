@@ -1,0 +1,4 @@
+/* src/styles.css */
+.is-mobile div.awesome-reader-epub button {
+  width: auto !important;
+}

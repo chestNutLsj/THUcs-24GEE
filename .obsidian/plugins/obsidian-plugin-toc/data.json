@@ -1,0 +1,7 @@
+{
+  "minimumDepth": 2,
+  "maximumDepth": 4,
+  "listStyle": "bullet",
+  "useMarkdown": true,
+  "githubCompat": false
+}

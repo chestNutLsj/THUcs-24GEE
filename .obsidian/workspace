@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "c7a0323c1778528c",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbf6291accf43f62",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "政治/马克思主义基本原理概论/错题本与概念总结.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "139b62ed16e8456e",
+    "type": "split",
+    "children": [
+      {
+        "id": "039c6afdca8368eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3247b1144cdb7c74",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "29c318f39c1fe24b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "44cee7eaa89e8066",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "af9b584d003ee358",
+    "type": "split",
+    "children": [
+      {
+        "id": "8efa761f429283e2",
+        "type": "tabs",
+        "dimension": 39.93933265925177,
+        "children": [
+          {
+            "id": "b1e56ce4ad7fcf89",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "政治/马克思主义基本原理概论/错题本与概念总结.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4d5cd593344aefcd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "政治/马克思主义基本原理概论/错题本与概念总结.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fe2bb479bc71f379",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "869abce51cea1894",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "14a7f030c1b51841",
+        "type": "tabs",
+        "dimension": 60.06066734074823,
+        "children": [
+          {
+            "id": "d0458e4ac69eb02f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "政治/马克思主义基本原理概论/错题本与概念总结.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "b1e56ce4ad7fcf89",
+  "lastOpenFiles": [
+    "政治/毛泽东思想与中国特色社会主义理论体系/各种问题.md",
+    "政治/马克思主义基本原理概论/错题本与概念总结.md",
+    "政治/毛泽东思想与中国特色社会主义理论体系/对不同事件的评价的总结.md",
+    "政治/毛泽东思想与中国特色社会主义理论体系/易混淆概念.md",
+    "政治/毛泽东思想与中国特色社会主义理论体系/扣帽子.md",
+    "政治/近现代史纲要/事件脉络梳理.md",
+    "政治/近现代史纲要/土地政策.md",
+    "政治/毛泽东思想与中国特色社会主义理论体系/线索总结.md",
+    "政治/近现代史纲要/中共会议.md",
+    "政治/近现代史纲要/事件脉络梳理/对待富农的态度.md"
+  ]
+}

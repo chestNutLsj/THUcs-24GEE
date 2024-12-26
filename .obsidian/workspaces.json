@@ -1,0 +1,918 @@
+{
+  "workspaces": {
+    "政治1000": {
+      "main": {
+        "id": "c7a0323c1778528c",
+        "type": "split",
+        "children": [
+          {
+            "id": "ec157c337a1e7086",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1bf968b938705639",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "政治/24-肖1000刷题/1-马原.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "4e78af6b2ae02e9a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "政治/24-肖1000刷题/2-毛思想与中特理论.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "fa41747be06d83a8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "政治/24-肖1000刷题/3-习思想.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "1304fba27b85240a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "政治/24-肖1000刷题/4-近代史.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "1039a29cfabe2358",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "政治/24-肖1000刷题/5-思想品德.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "6c02d8b6aa4cef62",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "政治/24-肖1000刷题/每日刷题笔记.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "23ecfb8bd8147643",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "政治/24-肖1000刷题/毛思想与中特理论概念梳理.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "0edc32d731744ae3",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "政治/24-肖1000刷题/马原细节内容/第5章、资本主义的本质及规律.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 5
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "139b62ed16e8456e",
+        "type": "split",
+        "children": [
+          {
+            "id": "039c6afdca8368eb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3247b1144cdb7c74",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "29c318f39c1fe24b",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "全面深化改革",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "774fea76dfbd8d5e",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 213.5
+      },
+      "right": {
+        "id": "af9b584d003ee358",
+        "type": "split",
+        "children": [
+          {
+            "id": "8efa761f429283e2",
+            "type": "tabs",
+            "dimension": 39.93933265925177,
+            "children": [
+              {
+                "id": "b1e56ce4ad7fcf89",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "政治/24-肖1000刷题/每日刷题笔记.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "4d5cd593344aefcd",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "政治/24-肖1000刷题/每日刷题笔记.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "fe2bb479bc71f379",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "869abce51cea1894",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "a4b9a5003cdaaae5",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "14a7f030c1b51841",
+            "type": "tabs",
+            "dimension": 60.06066734074823,
+            "children": [
+              {
+                "id": "d0458e4ac69eb02f",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "政治/24-肖1000刷题/每日刷题笔记.md"
+                  }
+                }
+              },
+              {
+                "id": "79d1d718852370fc",
+                "type": "leaf",
+                "state": {
+                  "type": "dictionary-view",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian-excalidraw-plugin:新建绘图文件": false,
+          "canvas:新建白板": false,
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "command-palette:打开命令面板": false,
+          "markdown-importer:打开 Markdown 格式转换器": false,
+          "workspaces:管理工作区布局": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "obsidian42-brat:BRAT": false,
+          "obsidian-wordnet-plugin:WordNet Dictionary": false
+        }
+      },
+      "active": "774fea76dfbd8d5e"
+    },
+    "blank": {
+      "main": {
+        "id": "c7a0323c1778528c",
+        "type": "split",
+        "children": [
+          {
+            "id": "2b1fba6cd66f4b93",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "63c4e81b2324070e",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "139b62ed16e8456e",
+        "type": "split",
+        "children": [
+          {
+            "id": "039c6afdca8368eb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3247b1144cdb7c74",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "29c318f39c1fe24b",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "全面深化改革",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "44cee7eaa89e8066",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              },
+              {
+                "id": "774fea76dfbd8d5e",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 213.5
+      },
+      "right": {
+        "id": "af9b584d003ee358",
+        "type": "split",
+        "children": [
+          {
+            "id": "8efa761f429283e2",
+            "type": "tabs",
+            "dimension": 39.93933265925177,
+            "children": [
+              {
+                "id": "b1e56ce4ad7fcf89",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "4d5cd593344aefcd",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "fe2bb479bc71f379",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "869abce51cea1894",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "a4b9a5003cdaaae5",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "14a7f030c1b51841",
+            "type": "tabs",
+            "dimension": 60.06066734074823,
+            "children": [
+              {
+                "id": "d0458e4ac69eb02f",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {}
+                }
+              },
+              {
+                "id": "79d1d718852370fc",
+                "type": "leaf",
+                "state": {
+                  "type": "dictionary-view",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "canvas:新建白板": false,
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "command-palette:打开命令面板": false,
+          "markdown-importer:打开 Markdown 格式转换器": false,
+          "workspaces:管理工作区布局": false,
+          "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "obsidian42-brat:BRAT": false,
+          "obsidian-wordnet-plugin:WordNet Dictionary": false
+        }
+      },
+      "active": "63c4e81b2324070e"
+    },
+    "英语2024": {
+      "main": {
+        "id": "c7a0323c1778528c",
+        "type": "split",
+        "children": [
+          {
+            "id": "2b1fba6cd66f4b93",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "63c4e81b2324070e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "英语/阅读/阅读的逻辑(方法论).md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "9fac88597a57be74",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "英语/阅读/阅读中的生词(I).md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "f50906bb6dd1021d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "英语/阅读/阅读中的生词(II).md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "8bbac2adc745f586",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "英语/阅读/English Culture.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "139b62ed16e8456e",
+        "type": "split",
+        "children": [
+          {
+            "id": "039c6afdca8368eb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3247b1144cdb7c74",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "29c318f39c1fe24b",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "全面深化改革",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "44cee7eaa89e8066",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              },
+              {
+                "id": "774fea76dfbd8d5e",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 213.5
+      },
+      "right": {
+        "id": "af9b584d003ee358",
+        "type": "split",
+        "children": [
+          {
+            "id": "8efa761f429283e2",
+            "type": "tabs",
+            "dimension": 39.93933265925177,
+            "children": [
+              {
+                "id": "b1e56ce4ad7fcf89",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "英语/阅读/阅读中的生词(II).md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "4d5cd593344aefcd",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "英语/阅读/阅读中的生词(II).md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "fe2bb479bc71f379",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "869abce51cea1894",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "a4b9a5003cdaaae5",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "14a7f030c1b51841",
+            "type": "tabs",
+            "dimension": 60.06066734074823,
+            "children": [
+              {
+                "id": "d0458e4ac69eb02f",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "英语/阅读/阅读中的生词(II).md"
+                  }
+                }
+              },
+              {
+                "id": "79d1d718852370fc",
+                "type": "leaf",
+                "state": {
+                  "type": "dictionary-view",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian-excalidraw-plugin:新建绘图文件": false,
+          "canvas:新建白板": false,
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "command-palette:打开命令面板": false,
+          "markdown-importer:打开 Markdown 格式转换器": false,
+          "workspaces:管理工作区布局": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "obsidian42-brat:BRAT": false,
+          "obsidian-wordnet-plugin:WordNet Dictionary": false
+        }
+      },
+      "active": "f50906bb6dd1021d"
+    },
+    "英语作文": {
+      "main": {
+        "id": "c7a0323c1778528c",
+        "type": "split",
+        "children": [
+          {
+            "id": "b3b9c59cc8ecdabf",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d4a667b5c63d0986",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "英语/作文/英二图表写作（方法论）.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "47f3374e227f6281",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "英语/作文/英一看图写作.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "acc325906df1a6be",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "07dea3a7a4b9605f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "英语/作文/英一看图写作.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "139b62ed16e8456e",
+        "type": "split",
+        "children": [
+          {
+            "id": "039c6afdca8368eb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3247b1144cdb7c74",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "29c318f39c1fe24b",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "全面深化改革",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "774fea76dfbd8d5e",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 213.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "af9b584d003ee358",
+        "type": "split",
+        "children": [
+          {
+            "id": "8efa761f429283e2",
+            "type": "tabs",
+            "dimension": 39.93933265925177,
+            "children": [
+              {
+                "id": "b1e56ce4ad7fcf89",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "英语/作文/英一看图写作.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "4d5cd593344aefcd",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "英语/作文/英一看图写作.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "fe2bb479bc71f379",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "869abce51cea1894",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "a4b9a5003cdaaae5",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "14a7f030c1b51841",
+            "type": "tabs",
+            "dimension": 60.06066734074823,
+            "children": [
+              {
+                "id": "d0458e4ac69eb02f",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "英语/作文/英一看图写作.md"
+                  }
+                }
+              },
+              {
+                "id": "79d1d718852370fc",
+                "type": "leaf",
+                "state": {
+                  "type": "dictionary-view",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "oz-clear-unused-images:Clear Unused Images": false,
+          "obsidian-excalidraw-plugin:新建绘图文件": false,
+          "canvas:新建白板": false,
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "command-palette:打开命令面板": false,
+          "markdown-importer:打开 Markdown 格式转换器": false,
+          "workspaces:管理工作区布局": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "obsidian42-brat:BRAT": false,
+          "obsidian-wordnet-plugin:WordNet Dictionary": false
+        }
+      },
+      "active": "07dea3a7a4b9605f"
+    }
+  },
+  "active": "英语作文"
+}

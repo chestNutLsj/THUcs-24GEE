@@ -1,0 +1,10 @@
+{
+  "theme": "moonstone",
+  "cssTheme": "Blue Topaz",
+  "translucency": true,
+  "interfaceFontFamily": "JetBrains Mono",
+  "textFontFamily": "文泉驿等宽微米黑",
+  "monospaceFontFamily": "Fira Code",
+  "accentColor": "",
+  "baseFontSize": 20
+}

@@ -1,0 +1,21 @@
+{
+  "legacyEditor": false,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "newFileFolderPath": "New",
+  "attachmentFolderPath": "./assets",
+  "promptDelete": false,
+  "showFrontmatter": true,
+  "showLineNumber": false,
+  "smartIndentList": true,
+  "useTab": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 85
+  },
+  "readableLineLength": true
+}

@@ -1,0 +1,2593 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1693565175684,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1693562860341,
+          "path": "1-Theory/5-OS-principle/Internal&design-principle/20-进程与线程.md",
+          "subpath": "#**完整的进程切换步骤**",
+          "title": "完整的进程切换步骤"
+        },
+        {
+          "type": "file",
+          "ctime": 1693565148772,
+          "path": "1-Theory/5-OS-principle/Internal&design-principle/20-进程与线程.md",
+          "subpath": "#^93a1bf",
+          "title": "套管 jacketing"
+        },
+        {
+          "type": "file",
+          "ctime": 1693663468664,
+          "path": "1-Theory/5-OS-principle/Internal&design-principle/30-并发.md",
+          "subpath": "#资源分配拒绝(银行家算法)",
+          "title": "银行家算法"
+        },
+        {
+          "type": "file",
+          "ctime": 1693663596445,
+          "path": "1-Theory/5-OS-principle/Internal&design-principle/30-并发.md",
+          "subpath": "#死锁检测算法(coffman 算法)",
+          "title": "Coffman算法"
+        },
+        {
+          "type": "file",
+          "ctime": 1693985701846,
+          "path": "1-Theory/5-OS-principle/Internal&design-principle/40-内存与虚存.md",
+          "subpath": "#^55c770",
+          "title": "基址寄存器、界限寄存器实现内存保护"
+        },
+        {
+          "type": "file",
+          "ctime": 1693986551100,
+          "path": "1-Theory/5-OS-principle/Internal&design-principle/40-内存与虚存.md",
+          "subpath": "#^18bf0a",
+          "title": "抖动thrashing"
+        },
+        {
+          "type": "file",
+          "ctime": 1693986865631,
+          "path": "1-Theory/5-OS-principle/Internal&design-principle/40-内存与虚存.md",
+          "subpath": "#^6d9569",
+          "title": "二级虚拟页表的计算方式"
+        },
+        {
+          "type": "file",
+          "ctime": 1693988404370,
+          "path": "1-Theory/5-OS-principle/Internal&design-principle/40-内存与虚存.md",
+          "subpath": "#置换策略",
+          "title": "虚拟分页-置换策略"
+        },
+        {
+          "type": "file",
+          "ctime": 1693989041904,
+          "path": "1-Theory/5-OS-principle/Internal&design-principle/40-内存与虚存.md",
+          "subpath": "#工作集策略",
+          "title": "工作集策略及PFF、VSWS"
+        },
+        {
+          "type": "file",
+          "ctime": 1694156253307,
+          "path": "1-Theory/5-OS-principle/Internal&design-principle/50-CPU调度.md",
+          "subpath": "#^a7452f",
+          "title": "处理器抖动"
+        },
+        {
+          "type": "file",
+          "ctime": 1694156263515,
+          "path": "1-Theory/5-OS-principle/Internal&design-principle/50-CPU调度.md",
+          "subpath": "#^f60129",
+          "title": "处理器碎片"
+        },
+        {
+          "type": "file",
+          "ctime": 1694158306205,
+          "path": "1-Theory/5-OS-principle/Internal&design-principle/50-CPU调度.md",
+          "subpath": "#最早 deadline 优先策略",
+          "title": "最早ddl优先策略"
+        },
+        {
+          "type": "file",
+          "ctime": 1694158513562,
+          "path": "1-Theory/5-OS-principle/Internal&design-principle/50-CPU调度.md",
+          "subpath": "#^a93108",
+          "title": "自愿空闲时间的最早ddl策略"
+        },
+        {
+          "type": "file",
+          "ctime": 1694244815185,
+          "path": "1-Theory/5-OS-principle/Internal&design-principle/60-IO管理与磁盘.md",
+          "subpath": "#DMA 工作流程",
+          "title": "DMA工作流程"
+        },
+        {
+          "type": "file",
+          "ctime": 1694159199390,
+          "path": "1-Theory/5-OS-principle/Internal&design-principle/50-CPU调度.md",
+          "subpath": "#优先级反转",
+          "title": "优先级反转"
+        },
+        {
+          "type": "file",
+          "ctime": 1694158548693,
+          "path": "1-Theory/5-OS-principle/Internal&design-principle/50-CPU调度.md",
+          "subpath": "#速率单调调度",
+          "title": "速率单调调度"
+        },
+        {
+          "type": "file",
+          "ctime": 1694425936340,
+          "path": "1-Theory/5-OS-principle/Internal&design-principle/40-内存与虚存.md",
+          "subpath": "#^6b6500",
+          "title": "静态重定位"
+        },
+        {
+          "type": "file",
+          "ctime": 1694430319599,
+          "path": "1-Theory/5-OS-principle/Internal&design-principle/40-内存与虚存.md",
+          "subpath": "#^e36fc3",
+          "title": "Clock算法与Belady现象"
+        },
+        {
+          "type": "file",
+          "ctime": 1694425953443,
+          "path": "1-Theory/5-OS-principle/Internal&design-principle/40-内存与虚存.md",
+          "subpath": "#^f55749",
+          "title": "动态重定位"
+        },
+        {
+          "type": "file",
+          "ctime": 1694502184288,
+          "path": "1-Theory/5-OS-principle/Internal&design-principle/40-内存与虚存.md",
+          "subpath": "#^668f31",
+          "title": "抖动解决办法"
+        },
+        {
+          "type": "file",
+          "ctime": 1694502232867,
+          "path": "1-Theory/5-OS-principle/Internal&design-principle/40-内存与虚存.md",
+          "subpath": "#^c1a7bf",
+          "title": "clock算法扫描速度快慢意味着什么？"
+        }
+      ],
+      "title": "OS-principle"
+    },
+    {
+      "type": "group",
+      "ctime": 1693927604603,
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1697865861190,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1697865876536,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/B-Vector+List/21-Vector-Exercise.md",
+              "subpath": "#2-5 分摊分析——二进制整数递增",
+              "title": "分摊分析实例：二进制整数递增"
+            },
+            {
+              "type": "file",
+              "ctime": 1697866739521,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/B-Vector+List/21-Vector-Exercise.md",
+              "subpath": "#2-15 CBA 算法下界分析",
+              "title": "比较树高度分析: CBA排序"
+            },
+            {
+              "type": "file",
+              "ctime": 1697868071618,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/B-Vector+List/21-Vector-Exercise.md",
+              "subpath": "#2-39 CBA 插入两元素到有序序列的比较次数分析",
+              "title": "插入多个元素到有序序列的比较次数"
+            },
+            {
+              "type": "file",
+              "ctime": 1697868166055,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/B-Vector+List/21-Vector-Exercise.md",
+              "subpath": "#2-40 CBA 找出最大者、次大者",
+              "title": "找出向量中最大者、次大者的策略优化"
+            },
+            {
+              "type": "file",
+              "ctime": 1697952924193,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/B-Vector+List/31-List-Exercise.md",
+              "subpath": "#3-10 插入排序性能分析",
+              "title": "插入排序性能分析"
+            },
+            {
+              "type": "file",
+              "ctime": 1697953137376,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/B-Vector+List/31-List-Exercise.md",
+              "subpath": "#3-11 逆序对与插入排序分析",
+              "title": "逆序对与插入排序分析"
+            },
+            {
+              "type": "file",
+              "ctime": 1697953387280,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/B-Vector+List/31-List-Exercise.md",
+              "subpath": "#3-14 循环节的应用",
+              "title": "循环节：选择排序中无需交换的元素的数量"
+            },
+            {
+              "type": "file",
+              "ctime": 1697953692487,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/B-Vector+List/31-List-Exercise.md",
+              "subpath": "#3-16 mergeSort 划分的影响",
+              "title": "mergeSort不平衡划分的影响:O(n^2)"
+            },
+            {
+              "type": "file",
+              "ctime": 1697955224088,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/C-Stack+Queue/41-Stack-queue-Exercise.md",
+              "subpath": "#4-3 栈混洗与禁形",
+              "title": "栈混洗与禁形"
+            },
+            {
+              "type": "file",
+              "ctime": 1697955649255,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/C-Stack+Queue/41-Stack-queue-Exercise.md",
+              "subpath": "#4-11 中缀表达式运算中根据括号数求栈规模",
+              "title": "中缀表达式运算中根据括号数求栈规模"
+            },
+            {
+              "type": "file",
+              "ctime": 1698046486758,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/D-Tree+BST+BBST/51-Tree-Exercise.md",
+              "subpath": "#5.2 二叉树深度、节点数与高度关系",
+              "title": "二叉树高度与节点数问题：引伸到真二叉树"
+            },
+            {
+              "type": "file",
+              "ctime": 1698049443932,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/D-Tree+BST+BBST/51-Tree-Exercise.md",
+              "subpath": "#5-6 PFC 编码一定解码成功吗？",
+              "title": "PFC 编码一定解码成功吗？"
+            },
+            {
+              "type": "file",
+              "ctime": 1698049555328,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/D-Tree+BST+BBST/51-Tree-Exercise.md",
+              "subpath": "#5-15 迭代式遍历算法的栈的最小容量",
+              "title": "易错：迭代式树遍历算法的栈的最小容量"
+            },
+            {
+              "type": "file",
+              "ctime": 1698049659714,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/D-Tree+BST+BBST/51-Tree-Exercise.md",
+              "subpath": "#5-16 分析 travIn_I3 的时间复杂度",
+              "title": "分析 travIn_I3 的时间复杂度（succ接口对复杂度的影响）"
+            },
+            {
+              "type": "file",
+              "ctime": 1698049708773,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/D-Tree+BST+BBST/51-Tree-Exercise.md",
+              "subpath": "#5-18 层次遍历辅助队列容量问题",
+              "title": "层次遍历辅助队列容量问题"
+            },
+            {
+              "type": "file",
+              "ctime": 1698049834603,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/D-Tree+BST+BBST/51-Tree-Exercise.md",
+              "subpath": "#5-19 证明完全二叉树层次遍历过程中辅助队列规模单峰对称",
+              "title": "层次遍历过程中辅助队列规模单峰对称的性质"
+            },
+            {
+              "type": "file",
+              "ctime": 1698049946134,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/D-Tree+BST+BBST/51-Tree-Exercise.md",
+              "subpath": "#5-20 如何判断任一对节点间存在“祖先-后代”关系？",
+              "title": "如何判断任一对节点间存在“祖先-后代”关系？"
+            },
+            {
+              "type": "file",
+              "ctime": 1698050097396,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/D-Tree+BST+BBST/51-Tree-Exercise.md",
+              "subpath": "#5-24 O (n)时间内判断是否树中所有节点的数值均不小于其真祖先的数值总和",
+              "title": "O (n)时间内判断是否树中所有节点的数值均不小于其真祖先的数值总和"
+            },
+            {
+              "type": "file",
+              "ctime": 1698050110918,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/D-Tree+BST+BBST/51-Tree-Exercise.md",
+              "subpath": "#5-25 O (n)时间内将每个节点的数值替换为后代中最大数值",
+              "title": "O (n)时间内将每个节点的数值替换为后代中最大数值"
+            },
+            {
+              "type": "file",
+              "ctime": 1698387502215,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/D-Tree+BST+BBST/62-BST-Exercise.md",
+              "subpath": "#7-10 扩充 searchAll(e)接口",
+              "title": "如何在关键码可重复的BST中找到目标项的全部？"
+            },
+            {
+              "type": "file",
+              "ctime": 1698390315793,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/D-Tree+BST+BBST/62-BST-Exercise.md",
+              "subpath": "#8-13 考察 2012 个内部节点的红黑树高度",
+              "title": "2012个内部节点的红黑树(黑)高度的极值问题"
+            },
+            {
+              "type": "file",
+              "ctime": 1698390456954,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/D-Tree+BST+BBST/62-BST-Exercise.md",
+              "subpath": "#8-14 考察红黑树重染色节点的数量",
+              "title": "证明：分摊意义上红黑树重平衡中需要重染色的节点数为O(1)"
+            },
+            {
+              "type": "file",
+              "ctime": 1698497239601,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/E-Hash-String-Sort/71-Hash-Exercise.md",
+              "subpath": "#9-7 表长不能取作 2 k 的分析",
+              "title": "表长为什么不能取作2^k？"
+            },
+            {
+              "type": "file",
+              "ctime": 1698497395837,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/E-Hash-String-Sort/71-Hash-Exercise.md",
+              "subpath": "#9-14 单向平方试探法表长为素数的查找链分析",
+              "title": "单向平方试探法在素数长度的哈希表中的查找链分析"
+            },
+            {
+              "type": "file",
+              "ctime": 1698497470776,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/E-Hash-String-Sort/71-Hash-Exercise.md",
+              "subpath": "#9-15 散列表长为合数时的平方试探",
+              "title": "散列表长为合数时的平方试探"
+            },
+            {
+              "type": "file",
+              "ctime": 1698497482199,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/E-Hash-String-Sort/71-Hash-Exercise.md",
+              "subpath": "#9-17 双向平方试探的表长分析",
+              "title": "双向平方试探的表长分析：4k+3"
+            },
+            {
+              "type": "file",
+              "ctime": 1698497747719,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/E-Hash-String-Sort/71-Hash-Exercise.md",
+              "subpath": "#9-23 计数排序",
+              "title": "计数排序"
+            },
+            {
+              "type": "file",
+              "ctime": 1698497760961,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/E-Hash-String-Sort/71-Hash-Exercise.md",
+              "subpath": "#9-18 散列表实例",
+              "title": "单向平方试探为什么会陷入死循环"
+            },
+            {
+              "type": "file",
+              "ctime": 1698646169844,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/82-Graph-Exercise.md",
+              "subpath": "#6-3 平面图的边数量",
+              "title": "平面图的边数量为O(n)的证明"
+            },
+            {
+              "type": "file",
+              "ctime": 1698646614820,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/82-Graph-Exercise.md",
+              "subpath": "#6-7 BFS 辅助队列的特性",
+              "title": "BFS 辅助队列的特性"
+            },
+            {
+              "type": "file",
+              "ctime": 1698647211262,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/82-Graph-Exercise.md",
+              "subpath": "#6-18 通过拓扑排序检查是否是 DAG",
+              "title": "通过拓扑排序检查是否是 DAG"
+            },
+            {
+              "type": "file",
+              "ctime": 1698647271292,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/82-Graph-Exercise.md",
+              "subpath": "#6-21 以 PFS 设计 prioUpdater 实现 BFS、DFS",
+              "title": "以 PFS 设计 prioUpdater 实现 BFS、DFS"
+            },
+            {
+              "type": "file",
+              "ctime": 1698647450463,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/82-Graph-Exercise.md",
+              "subpath": "#6-25、26 边权重复时极小支撑树问题",
+              "title": "边权重复时极小支撑树问题"
+            },
+            {
+              "type": "file",
+              "ctime": 1698739354151,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/91-PQ-Exercise.md",
+              "subpath": "#10-4-b 将 percolateUp 算法优化到 O (loglogn)",
+              "title": "如何将上滤算法的比较次数优化到O(loglogn)"
+            },
+            {
+              "type": "file",
+              "ctime": 1698739471689,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/91-PQ-Exercise.md",
+              "subpath": "#10-6 估算 percolateUp 的实际期望",
+              "title": "估算 percolateUp 的实际期望"
+            },
+            {
+              "type": "file",
+              "ctime": 1698739509074,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/91-PQ-Exercise.md",
+              "subpath": "#10-8 优先级队列与 Huffman 树",
+              "title": "CBA式算法构建Huffman树的时间下界"
+            },
+            {
+              "type": "file",
+              "ctime": 1698739706726,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/91-PQ-Exercise.md",
+              "subpath": "#10-9 利用频率已有序的性质在 O (n)完成构建 Huffman 树",
+              "title": "利用频率已有序的性质在 O (n)完成构建 Huffman 树"
+            },
+            {
+              "type": "file",
+              "ctime": 1698739760123,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/91-PQ-Exercise.md",
+              "subpath": "#10.17 利用多叉堆改进 Prim 算法",
+              "title": "利用多叉堆改进 Prim 算法"
+            },
+            {
+              "type": "file",
+              "ctime": 1698739806695,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/91-PQ-Exercise.md",
+              "subpath": "#10-19 为栈维护 getMax 接口",
+              "title": "为栈维护 getMax 接口"
+            },
+            {
+              "type": "file",
+              "ctime": 1698739814120,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/91-PQ-Exercise.md",
+              "subpath": "#10-20 为队列维护 getMax 接口",
+              "title": "为队列维护 getMax 接口"
+            },
+            {
+              "type": "file",
+              "ctime": 1698739833921,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/91-PQ-Exercise.md",
+              "subpath": "#10-21 合并 AVL 树",
+              "title": "合并大节点AVL树和小节点AVL树"
+            },
+            {
+              "type": "file",
+              "ctime": 1698739895454,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/91-PQ-Exercise.md",
+              "subpath": "#10-22 分裂 AVL 树",
+              "title": "分裂大节点AVL树和小节点AVL树"
+            },
+            {
+              "type": "file",
+              "ctime": 1698907436663,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/E-Hash-String-Sort/A1-String-Exercise.md",
+              "subpath": "#11-4 KMP 复杂度分析",
+              "title": "KMP 复杂度的严谨分析"
+            },
+            {
+              "type": "file",
+              "ctime": 1698907483145,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/E-Hash-String-Sort/A1-String-Exercise.md",
+              "subpath": "#11-6 `gs[]` 构造算法的时间复杂度",
+              "title": "ss[]和gs[]表的构造算法复杂度"
+            },
+            {
+              "type": "file",
+              "ctime": 1698907570468,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/E-Hash-String-Sort/A1-String-Exercise.md",
+              "subpath": "#11-7 模式枚举",
+              "title": "模式枚举问题：匹配间隔的设置对复杂度的影响"
+            },
+            {
+              "type": "file",
+              "ctime": 1698907603565,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/E-Hash-String-Sort/A1-String-Exercise.md",
+              "subpath": "#11-9 分析蛮力算法的实际效率",
+              "title": "分析模式匹配蛮力算法的实际效率"
+            },
+            {
+              "type": "file",
+              "ctime": 1698909132544,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/E-Hash-String-Sort/B1-Sort-Exercise.md",
+              "subpath": "#12-1 构造轴点的 LGU 策略",
+              "title": "LGU策略能否应对大量元素重复的情况？"
+            },
+            {
+              "type": "file",
+              "ctime": 1698909164274,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/E-Hash-String-Sort/B1-Sort-Exercise.md",
+              "subpath": "#12-1-补 三点取中法的失衡概率",
+              "title": "三点取中法的失衡概率计算"
+            },
+            {
+              "type": "file",
+              "ctime": 1698909264220,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/E-Hash-String-Sort/B1-Sort-Exercise.md",
+              "subpath": "#12-3 众数定义改为“不少于一半”的分析",
+              "title": "众数定义修改为“不少于一半”的分析"
+            },
+            {
+              "type": "file",
+              "ctime": 1698909328158,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/E-Hash-String-Sort/B1-Sort-Exercise.md",
+              "subpath": "#12-7 不等长向量长度的 `median()` 算法分析",
+              "title": "不等长向量长度的 `median()` 算法分析"
+            },
+            {
+              "type": "file",
+              "ctime": 1698910586369,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/E-Hash-String-Sort/B1-Sort-Exercise.md",
+              "subpath": "#12-12 基数排序推广：希尔排序的基本思想",
+              "title": "基数排序推广：希尔排序的基本思想"
+            },
+            {
+              "type": "file",
+              "ctime": 1698910600897,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/E-Hash-String-Sort/B1-Sort-Exercise.md",
+              "subpath": "#12-13 证明 g-sorted 的向量经过 h-sorting 后亦然保持 g-sorted",
+              "title": "证明 g-sorted 的向量经过 h-sorting 后亦然保持 g-sorted"
+            }
+          ],
+          "title": "习题解析好题"
+        },
+        {
+          "type": "group",
+          "ctime": 1697701223496,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1697701292826,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/A-Introduction/10-Introduction.md",
+              "subpath": "#迭代与递归应用：总和最大区段",
+              "title": "总和最大区段问题"
+            },
+            {
+              "type": "file",
+              "ctime": 1697701329746,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/A-Introduction/10-Introduction.md",
+              "subpath": "#求 fib(n)",
+              "title": "动态规划求Fibonacci序列"
+            },
+            {
+              "type": "file",
+              "ctime": 1697701380476,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/A-Introduction/10-Introduction.md",
+              "subpath": "#最长公共子序列",
+              "title": "最长公共子序列LCS问题"
+            },
+            {
+              "type": "file",
+              "ctime": 1697701468614,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/A-Introduction/10-Introduction.md",
+              "subpath": "#局限 1 缓存——就地循环位移",
+              "title": "向量元素就地循环位移问题"
+            },
+            {
+              "type": "file",
+              "ctime": 1697701524391,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/A-Introduction/10-Introduction.md",
+              "subpath": "#从 O (n)到 O (r=logn)",
+              "title": "快速幂计算问题"
+            },
+            {
+              "type": "file",
+              "ctime": 1697701575776,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/A-Introduction/10-Introduction.md",
+              "subpath": "#局限 3 随机数",
+              "title": "(伪)随机数生成问题"
+            },
+            {
+              "type": "file",
+              "ctime": 1697701683907,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/A-Introduction/11-Intro-Exercise.md",
+              "subpath": "#1-12 countOnes 算法改进",
+              "title": "快速计算整数二进制表示的1位数"
+            },
+            {
+              "type": "file",
+              "ctime": 1697702141471,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/A-Introduction/11-Intro-Exercise.md",
+              "subpath": "#更相减损术",
+              "title": "更相减损术"
+            },
+            {
+              "type": "file",
+              "ctime": 1697778997653,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/A-Introduction/12-Instances-of-recursion.md",
+              "subpath": "#Hanoi 问题",
+              "title": "Hanoi问题"
+            },
+            {
+              "type": "file",
+              "ctime": 1697781942744,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/C-Stack+Queue/43-Probing-backtracking.md",
+              "subpath": "#八皇后问题",
+              "title": "八皇后问题"
+            },
+            {
+              "type": "file",
+              "ctime": 1697781955896,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/C-Stack+Queue/43-Probing-backtracking.md",
+              "subpath": "#迷宫寻径",
+              "title": "迷宫寻径问题"
+            },
+            {
+              "type": "file",
+              "ctime": 1697953830318,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/B-Vector+List/31-List-Exercise.md",
+              "subpath": "#3-18 实现列表逆置",
+              "title": "如何实现列表/向量逆置？"
+            },
+            {
+              "type": "file",
+              "ctime": 1697954686096,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/C-Stack+Queue/40-Stack_Queue.md",
+              "subpath": "#进制转换",
+              "title": "进制转换"
+            },
+            {
+              "type": "file",
+              "ctime": 1697954697665,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/C-Stack+Queue/40-Stack_Queue.md",
+              "subpath": "#括号匹配",
+              "title": "括号匹配"
+            },
+            {
+              "type": "file",
+              "ctime": 1697954718353,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/C-Stack+Queue/40-Stack_Queue.md",
+              "subpath": "#中缀表达式求值",
+              "title": "中缀表达式求值"
+            },
+            {
+              "type": "file",
+              "ctime": 1697954778130,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/C-Stack+Queue/40-Stack_Queue.md",
+              "subpath": "#自动",
+              "title": "中缀表达式转后缀表达式"
+            },
+            {
+              "type": "file",
+              "ctime": 1697954828033,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/C-Stack+Queue/40-Stack_Queue.md",
+              "subpath": "#直方图最大矩形",
+              "title": "直方图最大矩形"
+            },
+            {
+              "type": "file",
+              "ctime": 1697954874491,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/C-Stack+Queue/40-Stack_Queue.md",
+              "subpath": "#栈堆与队列堆",
+              "title": "Steap&Queap:维护栈和队列的getMax()接口"
+            },
+            {
+              "type": "file",
+              "ctime": 1698045817997,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/D-Tree+BST+BBST/50-Tree.md",
+              "subpath": "#Huffman 树",
+              "title": "Huffman树的构造策略"
+            },
+            {
+              "type": "file",
+              "ctime": 1698046346486,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/D-Tree+BST+BBST/50-Tree.md",
+              "subpath": "#圆桌骑士问题",
+              "title": "圆桌骑士问题"
+            },
+            {
+              "type": "file",
+              "ctime": 1698046369994,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/D-Tree+BST+BBST/50-Tree.md",
+              "subpath": "#旅行骑士问题",
+              "title": "旅行骑士问题"
+            },
+            {
+              "type": "file",
+              "ctime": 1698390585900,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/D-Tree+BST+BBST/65-Lowest-Common-Ancestor.md",
+              "title": "最低公共祖先LCA问题"
+            },
+            {
+              "type": "file",
+              "ctime": 1698488606170,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/E-Hash-String-Sort/70-Hash.md",
+              "subpath": "#最大缝隙问题",
+              "title": "最大缝隙MaxGap问题（桶排序思路）"
+            },
+            {
+              "type": "file",
+              "ctime": 1698488813927,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/E-Hash-String-Sort/70-Hash.md",
+              "subpath": "#对数密度的整数集排序",
+              "title": "对数密度的整数集排序（基数排序思想）"
+            },
+            {
+              "type": "file",
+              "ctime": 1698646641237,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/82-Graph-Exercise.md",
+              "subpath": "#6-9 BFS 在 O (n+e)内找到直径（无向图中最长通路）",
+              "title": "BFS 如何在 O (n+e)内找到直径？"
+            },
+            {
+              "type": "file",
+              "ctime": 1698647335337,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/82-Graph-Exercise.md",
+              "subpath": "#6-22 旅行商问题：找出哈密尔顿环路",
+              "title": "旅行商问题：找出哈密尔顿环路"
+            }
+          ],
+          "title": "算法问题"
+        },
+        {
+          "type": "group",
+          "ctime": 1697701980171,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1697701915906,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/A-Introduction/11-Intro-Exercise.md",
+              "subpath": "#fib (k)的递归实例在执行中出现了多少次？",
+              "title": "fib(k)二分递归实例出现次数问题"
+            },
+            {
+              "type": "file",
+              "ctime": 1697702320092,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/A-Introduction/11-Intro-Exercise.md",
+              "subpath": "#O (√n）",
+              "title": "O(√n)的形式"
+            },
+            {
+              "type": "file",
+              "ctime": 1697702554793,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/A-Introduction/11-Intro-Exercise.md",
+              "subpath": "#递归与调用 1",
+              "title": "递归调用：线性递归实例分析"
+            },
+            {
+              "type": "file",
+              "ctime": 1697702681452,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/A-Introduction/11-Intro-Exercise.md",
+              "subpath": "#递归与调用 4",
+              "title": "递归调用：二分递归实例分析"
+            },
+            {
+              "type": "file",
+              "ctime": 1697785086634,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/B-Vector+List/20-Vector.md",
+              "subpath": "#平均分析 Vs. 分摊分析",
+              "title": "平均分析 Vs. 分摊分析"
+            },
+            {
+              "type": "file",
+              "ctime": 1697785398564,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/B-Vector+List/20-Vector.md",
+              "subpath": "#二分查找 b",
+              "title": "二分查找B和C的特点"
+            },
+            {
+              "type": "file",
+              "ctime": 1697785676488,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/B-Vector+List/20-Vector.md",
+              "subpath": "#2-way merge",
+              "title": "二路归并排序的复杂度、优缺点与改进"
+            },
+            {
+              "type": "file",
+              "ctime": 1697866859992,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/B-Vector+List/21-Vector-Exercise.md",
+              "subpath": "#2-18 binSearch 查找长度分析",
+              "title": "二分搜索的平均查找长度"
+            },
+            {
+              "type": "file",
+              "ctime": 1697866943951,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/B-Vector+List/21-Vector-Exercise.md",
+              "subpath": "#2-20 对比 binSearch-A 与 fibSearch",
+              "title": "二分查找A与Fib查找对比"
+            },
+            {
+              "type": "file",
+              "ctime": 1697867412297,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/B-Vector+List/21-Vector-Exercise.md",
+              "subpath": "#2-24-c 插值查找搜索区间与复杂度分析",
+              "title": "插值查找: 查找区间宽度缩减速度和整体复杂度"
+            },
+            {
+              "type": "file",
+              "ctime": 1697867736802,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/B-Vector+List/21-Vector-Exercise.md",
+              "subpath": "#2-27 改进 mergeSort ()适应于大致有序情况",
+              "title": "大致有序情况时归并排序的改进策略"
+            },
+            {
+              "type": "file",
+              "ctime": 1697868459569,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/B-Vector+List/21-Vector-Exercise.md",
+              "subpath": "#2-41 基数排序思想",
+              "title": "基数排序的思想基础"
+            },
+            {
+              "type": "file",
+              "ctime": 1697951849819,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/B-Vector+List/30-List.md",
+              "subpath": "#稳定性",
+              "title": "选择排序的稳定性如何保证？"
+            },
+            {
+              "type": "file",
+              "ctime": 1697952076748,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/B-Vector+List/30-List.md",
+              "subpath": "#性能",
+              "title": "插入排序的性能、交换次数分析"
+            },
+            {
+              "type": "file",
+              "ctime": 1697952345173,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/B-Vector+List/30-List.md",
+              "subpath": "#无效交换",
+              "title": "循环节：选择排序过程中出现无需交换的情形可能有多少次？"
+            },
+            {
+              "type": "file",
+              "ctime": 1697952541213,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/B-Vector+List/30-List.md",
+              "subpath": "#冒泡排序与逆序对",
+              "title": "逆序对与冒泡排序、插入排序"
+            },
+            {
+              "type": "file",
+              "ctime": 1697952782909,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/B-Vector+List/31-List-Exercise.md",
+              "subpath": "#3-4 deduplicate ()分析",
+              "title": "无序列表唯一化的最好情况是什么？"
+            },
+            {
+              "type": "file",
+              "ctime": 1697953157025,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/B-Vector+List/31-List-Exercise.md",
+              "subpath": "#3-12 插入算法的比较次数",
+              "title": "插入排序的比较次数"
+            },
+            {
+              "type": "file",
+              "ctime": 1697954276890,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/C-Stack+Queue/40-Stack_Queue.md",
+              "subpath": "#栈混洗",
+              "title": "栈混洗：总数、禁形判断、与括号匹配的关系"
+            },
+            {
+              "type": "file",
+              "ctime": 1697954503197,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/C-Stack+Queue/40-Stack_Queue.md",
+              "subpath": "#catalan 数应用",
+              "title": "Catalan数的实例"
+            },
+            {
+              "type": "file",
+              "ctime": 1697954588735,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/C-Stack+Queue/40-Stack_Queue.md",
+              "subpath": "#实例",
+              "title": "中缀表达式求值实例"
+            },
+            {
+              "type": "file",
+              "ctime": 1697954640440,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/C-Stack+Queue/40-Stack_Queue.md",
+              "subpath": "#中缀表达式转后缀表达式",
+              "title": "中缀表达式转后缀表达式"
+            },
+            {
+              "type": "file",
+              "ctime": 1697954922844,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/C-Stack+Queue/40-Stack_Queue.md",
+              "subpath": "#双栈当队",
+              "title": "双栈当队：实现与性能分析"
+            },
+            {
+              "type": "file",
+              "ctime": 1697955522554,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/C-Stack+Queue/41-Stack-queue-Exercise.md",
+              "subpath": "#4-2 向量实现队列",
+              "title": "循环向量实现队列"
+            },
+            {
+              "type": "file",
+              "ctime": 1697957241642,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/D-Tree+BST+BBST/50-Tree.md",
+              "subpath": "#^d0cd9e",
+              "title": "树的深度与高度关系"
+            },
+            {
+              "type": "file",
+              "ctime": 1694776343320,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/D-Tree+BST+BBST/50-Tree.md",
+              "subpath": "#^b26f71",
+              "title": "二叉树度数、节点数、边数的关系"
+            },
+            {
+              "type": "file",
+              "ctime": 1697957437151,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/D-Tree+BST+BBST/50-Tree.md",
+              "subpath": "#长子-兄弟表示法",
+              "title": "长子兄弟表示法：找到根的复杂度、遍历复杂度"
+            },
+            {
+              "type": "file",
+              "ctime": 1697957648108,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/D-Tree+BST+BBST/50-Tree.md",
+              "subpath": "#^c031da",
+              "title": "满二叉树与真二叉树的区别"
+            },
+            {
+              "type": "file",
+              "ctime": 1698044732343,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/D-Tree+BST+BBST/50-Tree.md",
+              "subpath": "#完全二叉树",
+              "title": "完全二叉树的定义与特点"
+            },
+            {
+              "type": "file",
+              "ctime": 1698040314562,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/D-Tree+BST+BBST/50-Tree.md",
+              "subpath": "#迭代版",
+              "title": "先序遍历迭代版"
+            },
+            {
+              "type": "file",
+              "ctime": 1698040587191,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/D-Tree+BST+BBST/50-Tree.md",
+              "subpath": "#中序遍历迭代版的思路",
+              "title": "中序遍历迭代版"
+            },
+            {
+              "type": "file",
+              "ctime": 1698043598126,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/D-Tree+BST+BBST/50-Tree.md",
+              "subpath": "#后序遍历特点",
+              "title": "后序遍历特点、迭代版"
+            },
+            {
+              "type": "file",
+              "ctime": 1698044385902,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/D-Tree+BST+BBST/50-Tree.md",
+              "subpath": "#应用：表达式树",
+              "title": "后序遍历应用：表达式树"
+            },
+            {
+              "type": "file",
+              "ctime": 1698044890283,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/D-Tree+BST+BBST/50-Tree.md",
+              "subpath": "#结论速查",
+              "title": "二叉树重构的结论"
+            },
+            {
+              "type": "file",
+              "ctime": 1698045263031,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/D-Tree+BST+BBST/50-Tree.md",
+              "subpath": "#先序 + 后序",
+              "title": "为什么先序+后序不能唯一确定二叉树？"
+            },
+            {
+              "type": "file",
+              "ctime": 1698045366338,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/D-Tree+BST+BBST/50-Tree.md",
+              "subpath": "#(先序+后序) x 真二叉树",
+              "title": "为什么真二叉树能够使先序+后序唯一确定二叉树？"
+            },
+            {
+              "type": "file",
+              "ctime": 1698045519205,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/D-Tree+BST+BBST/50-Tree.md",
+              "subpath": "#PFC 解码",
+              "title": "PFC解码的流程，且是在线算法吗？"
+            },
+            {
+              "type": "file",
+              "ctime": 1698045673435,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/D-Tree+BST+BBST/50-Tree.md",
+              "subpath": "#最优编码树",
+              "title": "最优编码树是真完全树？"
+            },
+            {
+              "type": "file",
+              "ctime": 1698045749083,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/D-Tree+BST+BBST/50-Tree.md",
+              "subpath": "#最优带权编码树",
+              "title": "考虑权重，真完全树还是最优编码树吗？"
+            },
+            {
+              "type": "file",
+              "ctime": 1698046103844,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/D-Tree+BST+BBST/50-Tree.md",
+              "subpath": "#Huffman 树的特性",
+              "title": "Huffman 树的特性：双子性、层次性"
+            },
+            {
+              "type": "file",
+              "ctime": 1698046133899,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/D-Tree+BST+BBST/50-Tree.md",
+              "subpath": "#Huffman 树构造的改进方案",
+              "title": "Huffman树构造的改进方案：优先级队列改进方案的时间复杂度"
+            },
+            {
+              "type": "file",
+              "ctime": 1698046220572,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/D-Tree+BST+BBST/50-Tree.md",
+              "subpath": "#树的半径与BFS",
+              "title": "树的半径与BFS"
+            },
+            {
+              "type": "file",
+              "ctime": 1698138381040,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/D-Tree+BST+BBST/60-Binary_Search_Tree.md",
+              "subpath": "#插入",
+              "title": "BST插入的节点一定是叶节点吗？"
+            },
+            {
+              "type": "file",
+              "ctime": 1698138463451,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/D-Tree+BST+BBST/60-Binary_Search_Tree.md",
+              "subpath": "#删除",
+              "title": "BST删除操作的两种情况"
+            },
+            {
+              "type": "file",
+              "ctime": 1698138617712,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/D-Tree+BST+BBST/60-Binary_Search_Tree.md",
+              "subpath": "#期望树高",
+              "title": "BST随机生成和随机组成的区别"
+            },
+            {
+              "type": "file",
+              "ctime": 1698140736291,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/D-Tree+BST+BBST/61-Balanced-BST.md",
+              "subpath": "#高度与节点数",
+              "title": "AVL-tree的高度与节点数关系"
+            },
+            {
+              "type": "file",
+              "ctime": 1698140879488,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/D-Tree+BST+BBST/62-BST-Exercise.md",
+              "subpath": "#7-13 证明 AVL 树插入节点后失衡的祖先数可能多达Ω(logn)个",
+              "title": "Fib-AVL树的形态"
+            },
+            {
+              "type": "file",
+              "ctime": 1698141137487,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/D-Tree+BST+BBST/61-Balanced-BST.md",
+              "subpath": "#插入",
+              "title": "AVL-tree树高增长的可能性：一定要失衡吗？"
+            },
+            {
+              "type": "file",
+              "ctime": 1698141578780,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/D-Tree+BST+BBST/61-Balanced-BST.md",
+              "subpath": "#删除",
+              "title": "AVL-tree树高降低的可能性：一定要失衡吗？"
+            },
+            {
+              "type": "file",
+              "ctime": 1698210198986,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/D-Tree+BST+BBST/61-Balanced-BST.md",
+              "subpath": "#双层伸展",
+              "title": "Splay-tree双层伸展的细节、单层伸展最多发生多少次？"
+            },
+            {
+              "type": "file",
+              "ctime": 1698210440265,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/D-Tree+BST+BBST/61-Balanced-BST.md",
+              "subpath": "#插入",
+              "title": "Splay-tree的插入：在根部直接插入节点，省去第二次伸展"
+            },
+            {
+              "type": "file",
+              "ctime": 1698210506314,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/D-Tree+BST+BBST/61-Balanced-BST.md",
+              "subpath": "#删除",
+              "title": "Splay-tree删除：先伸展再根部删除之"
+            },
+            {
+              "type": "file",
+              "ctime": 1698211751941,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/D-Tree+BST+BBST/61-Balanced-BST.md",
+              "subpath": "#势能分摊分析",
+              "title": "Splay-tree的势能分析"
+            },
+            {
+              "type": "file",
+              "ctime": 1698212457549,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/D-Tree+BST+BBST/61-Balanced-BST.md",
+              "subpath": "#准确定义",
+              "title": "BTree定义的细节：深度、高度"
+            },
+            {
+              "type": "file",
+              "ctime": 1698212708019,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/D-Tree+BST+BBST/61-Balanced-BST.md",
+              "subpath": "#树高",
+              "title": "BTree树高、胖瘦问题"
+            },
+            {
+              "type": "file",
+              "ctime": 1698212848696,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/D-Tree+BST+BBST/61-Balanced-BST.md",
+              "subpath": "#分裂",
+              "title": "BTree插入引起的上溢修复、树高增加的可能性"
+            },
+            {
+              "type": "file",
+              "ctime": 1698213033732,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/D-Tree+BST+BBST/61-Balanced-BST.md",
+              "subpath": "#删除",
+              "title": "BTree删除引起的下溢修复、下溢到根的可能"
+            },
+            {
+              "type": "file",
+              "ctime": 1698213386534,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/D-Tree+BST+BBST/61-Balanced-BST.md",
+              "subpath": "#并发性",
+              "title": "BST结构与并发性(访问延迟)的关系"
+            },
+            {
+              "type": "file",
+              "ctime": 1698214183309,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/D-Tree+BST+BBST/61-Balanced-BST.md",
+              "subpath": "#红黑树的高度",
+              "title": "红黑树的高度、黑高度、黑深度、红高度"
+            },
+            {
+              "type": "file",
+              "ctime": 1698214774245,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/D-Tree+BST+BBST/61-Balanced-BST.md",
+              "subpath": "#双红修正",
+              "title": "红黑树双红修正：黑高度增加的可能性"
+            },
+            {
+              "type": "file",
+              "ctime": 1698215771840,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/D-Tree+BST+BBST/61-Balanced-BST.md",
+              "subpath": "#删除",
+              "title": "红黑树的删除操作如何引起双黑冲突"
+            },
+            {
+              "type": "file",
+              "ctime": 1698215825457,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/D-Tree+BST+BBST/61-Balanced-BST.md",
+              "subpath": "#双黑修复",
+              "title": "红黑树双黑修复：黑高度降低的可能性"
+            },
+            {
+              "type": "file",
+              "ctime": 1698216303142,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/D-Tree+BST+BBST/61-Balanced-BST.md",
+              "subpath": "#^217ccd",
+              "title": "红黑树插入、删除操作的总结"
+            },
+            {
+              "type": "file",
+              "ctime": 1698387650792,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/D-Tree+BST+BBST/62-BST-Exercise.md",
+              "subpath": "#7-12 高度 h 的 AVL 树任一叶节点深度均不小于 $ lceil frac{h}{2} rceil$",
+              "title": "AVL树叶节点深度不小于h/2的证明"
+            },
+            {
+              "type": "file",
+              "ctime": 1698387975793,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/D-Tree+BST+BBST/62-BST-Exercise.md",
+              "subpath": "#7-15 证明 BST 在 n-1 次旋转内可以等价变换为左侧链",
+              "title": "BST在n-1次旋转内就可以转换为左侧链"
+            },
+            {
+              "type": "file",
+              "ctime": 1698388123241,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/D-Tree+BST+BBST/62-BST-Exercise.md",
+              "subpath": "#7-15-b 规模 n 的任何两棵等价 BST 至多 2n-2 次调整就可彼此转换",
+              "title": "任何两棵等价BST在2n-2次调整内即可彼此转换"
+            },
+            {
+              "type": "file",
+              "ctime": 1698388424137,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/D-Tree+BST+BBST/62-BST-Exercise.md",
+              "subpath": "#7-17 证明对于规模 n 的 AVL 树删除一节点后最多需要Ω(logn)次旋转才能恢复平衡",
+              "title": "AVL树何种情况下删除节点需要调整O(logn)次才会复平衡？"
+            },
+            {
+              "type": "file",
+              "ctime": 1698388492211,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/D-Tree+BST+BBST/62-BST-Exercise.md",
+              "subpath": "#7-19 AVL 树中删除一个节点且调整后某祖先 g(x) 复平衡，是否可以停止上溯？",
+              "title": "AVL树删除节点后调整至某一祖先复衡，是否可以停止上溯？"
+            },
+            {
+              "type": "file",
+              "ctime": 1698388674696,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/D-Tree+BST+BBST/62-BST-Exercise.md",
+              "subpath": "#7-20 证明递增插入 2 (h+1)-1 个关键码到空 AVL 树中必然得到高度 h 的满树",
+              "title": "证明递增插入2^(h+1)-1个关键码到AVL树必能得到满树"
+            },
+            {
+              "type": "file",
+              "ctime": 1698389602434,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/D-Tree+BST+BBST/62-BST-Exercise.md",
+              "subpath": "#8-6 考查 BTree 节点插入导致的分裂次数",
+              "title": "BTree 节点插入过程中导致的分裂次数的分析"
+            },
+            {
+              "type": "file",
+              "ctime": 1698487892817,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/E-Hash-String-Sort/70-Hash.md",
+              "subpath": "#除余法",
+              "title": "除余法中素数的作用、算法的缺陷"
+            },
+            {
+              "type": "file",
+              "ctime": 1698487947041,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/E-Hash-String-Sort/70-Hash.md",
+              "subpath": "#MAD 法",
+              "title": "MAD法中M、A这两个操作对除余法进行了什么改进？"
+            },
+            {
+              "type": "file",
+              "ctime": 1698488039831,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/E-Hash-String-Sort/70-Hash.md",
+              "subpath": "#开放散列",
+              "title": "开放散列与封闭散列的区别是什么？"
+            },
+            {
+              "type": "file",
+              "ctime": 1698488103716,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/E-Hash-String-Sort/70-Hash.md",
+              "subpath": "#开放散列",
+              "title": "开放散列的三种思路：多槽位、公共溢出区、独立链的特点"
+            },
+            {
+              "type": "file",
+              "ctime": 1698488228172,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/E-Hash-String-Sort/70-Hash.md",
+              "subpath": "#开放定址",
+              "title": "开放散列和开放定址的区别？"
+            },
+            {
+              "type": "file",
+              "ctime": 1698488299282,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/E-Hash-String-Sort/70-Hash.md",
+              "subpath": "#线性试探",
+              "title": "线性试探：思路、优劣、懒删除机制"
+            },
+            {
+              "type": "file",
+              "ctime": 1698488357550,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/E-Hash-String-Sort/70-Hash.md",
+              "subpath": "#重散列",
+              "title": "重散列与双散列的区别:rehash, bi-hash"
+            },
+            {
+              "type": "file",
+              "ctime": 1698488453941,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/E-Hash-String-Sort/70-Hash.md",
+              "subpath": "#平方试探",
+              "title": "平方试探中表长是素数、合数有什么影响？装填因子多少时可以保证找到？"
+            },
+            {
+              "type": "file",
+              "ctime": 1698488556043,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/E-Hash-String-Sort/70-Hash.md",
+              "subpath": "#双向平方试探",
+              "title": "双向平方试探什么情况下可以填满整个表？"
+            },
+            {
+              "type": "file",
+              "ctime": 1698488781367,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/E-Hash-String-Sort/70-Hash.md",
+              "subpath": "#思路",
+              "title": "基数排序的时间复杂度分析"
+            },
+            {
+              "type": "file",
+              "ctime": 1698488867880,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/E-Hash-String-Sort/70-Hash.md",
+              "subpath": "#^37f503",
+              "title": "基数排序如何确保正确性？底层排序一定要稳定吗？"
+            },
+            {
+              "type": "file",
+              "ctime": 1698489021178,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/E-Hash-String-Sort/70-Hash.md",
+              "subpath": "#思路",
+              "title": "计数排序的应用场景、思路与实例"
+            },
+            {
+              "type": "file",
+              "ctime": 1698489188514,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/E-Hash-String-Sort/70-Hash.md",
+              "subpath": "#^dd99f2",
+              "title": "计数排序每轮迭代的最后一步——扫描数据能否改为自前向后？"
+            },
+            {
+              "type": "file",
+              "ctime": 1698496918253,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/E-Hash-String-Sort/70-Hash.md",
+              "subpath": "#空间性能",
+              "title": "跳转表的空间性能：塔高期望"
+            },
+            {
+              "type": "file",
+              "ctime": 1698497014530,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/E-Hash-String-Sort/70-Hash.md",
+              "subpath": "#查找",
+              "title": "跳转表查找：纵向跳转次数和横向跳转次数"
+            },
+            {
+              "type": "file",
+              "ctime": 1698497180639,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/E-Hash-String-Sort/71-Hash-Exercise.md",
+              "subpath": "#9-6 散列表中模余法以同间隔插入关键码",
+              "title": "除余法导致的关键码冲突数、散列表利用率"
+            },
+            {
+              "type": "file",
+              "ctime": 1698498076252,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/80-Graph.md",
+              "subpath": "#路径、环路",
+              "title": "路径、环路：欧拉环路、哈密尔顿环路等概念"
+            },
+            {
+              "type": "file",
+              "ctime": 1698498232526,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/80-Graph.md",
+              "subpath": "#邻接矩阵与关联矩阵",
+              "title": "邻接矩阵：特点、空间复杂度和利用率、性能、缺点"
+            },
+            {
+              "type": "file",
+              "ctime": 1698498642583,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/80-Graph.md",
+              "subpath": "#邻接表",
+              "title": "邻接表：特点、空间复杂度、时间复杂度（琐碎）"
+            },
+            {
+              "type": "file",
+              "ctime": 1698498823428,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/80-Graph.md",
+              "subpath": "#邻接矩阵与邻接表的取舍原则",
+              "title": "邻接矩阵和邻接表的取舍原则"
+            },
+            {
+              "type": "file",
+              "ctime": 1698557722306,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/80-Graph.md",
+              "subpath": "#实例",
+              "title": "BFS过程中顶点状态、边记号的含义"
+            },
+            {
+              "type": "file",
+              "ctime": 1698557808884,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/80-Graph.md",
+              "subpath": "#推广：全图BFS",
+              "title": "bfs时间复杂度"
+            },
+            {
+              "type": "file",
+              "ctime": 1698558007947,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/80-Graph.md",
+              "subpath": "#最短路径",
+              "title": "图的最短路径思路、BFS过程中队列变化细节"
+            },
+            {
+              "type": "file",
+              "ctime": 1698558264745,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/80-Graph.md",
+              "subpath": "#图的偏心率、半径、直径、中心",
+              "title": "图的偏心率、半径、直径、中心"
+            },
+            {
+              "type": "file",
+              "ctime": 1698558475111,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/80-Graph.md",
+              "subpath": "#实现",
+              "title": "DFS顶点状态dTime、fTime细节、其他状态的含义"
+            },
+            {
+              "type": "file",
+              "ctime": 1698558557778,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/80-Graph.md",
+              "subpath": "#^804025",
+              "title": "DFS过程中边的状态细节"
+            },
+            {
+              "type": "file",
+              "ctime": 1698560412803,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/80-Graph.md",
+              "subpath": "#括号引理",
+              "title": "括号引理与活跃期"
+            },
+            {
+              "type": "file",
+              "ctime": 1698560430836,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/80-Graph.md",
+              "subpath": "#何时选用 BFS/DFS？",
+              "title": "BFS/DFS各自适用的场景"
+            },
+            {
+              "type": "file",
+              "ctime": 1698561341309,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/80-Graph.md",
+              "subpath": "#^02bb00",
+              "title": "如何判断图中出现环路？"
+            },
+            {
+              "type": "file",
+              "ctime": 1698561399974,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/82-Graph-Exercise.md",
+              "subpath": "#6-10 DFS 在 O (n+e)内判断是否存在欧拉环路并构造之",
+              "title": "如何判断是否存在欧拉环路？"
+            },
+            {
+              "type": "file",
+              "ctime": 1698561979573,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/81-Graph-Application.md",
+              "subpath": "#DAG 中的偏序关系",
+              "title": "DAG与拓扑排序的偏序、全序关系"
+            },
+            {
+              "type": "file",
+              "ctime": 1698564981958,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/81-Graph-Application.md",
+              "subpath": "#策略（描述）",
+              "title": "零出度拓扑排序的应用"
+            },
+            {
+              "type": "file",
+              "ctime": 1698565091297,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/81-Graph-Application.md",
+              "subpath": "#定义",
+              "title": "关节点、双连通图、双连通分量的定义、特点"
+            },
+            {
+              "type": "file",
+              "ctime": 1698565263766,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/81-Graph-Application.md",
+              "subpath": "#改进：利用 DFS",
+              "title": "DFC判断双连通图：内部节点何时为关节点？hca如何判断双连通分量？"
+            },
+            {
+              "type": "file",
+              "ctime": 1698565810942,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/81-Graph-Application.md",
+              "subpath": "#复杂度",
+              "title": "优先级搜索的时间复杂度"
+            },
+            {
+              "type": "file",
+              "ctime": 1698566012467,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/81-Graph-Application.md",
+              "subpath": "#最短路径树",
+              "title": "最短路径树的概念与Dijkstra算法的局限性"
+            },
+            {
+              "type": "file",
+              "ctime": 1698566753536,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/81-Graph-Application.md",
+              "subpath": "#实现",
+              "title": "Dijkstra算法的实例细节"
+            },
+            {
+              "type": "file",
+              "ctime": 1698567038808,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/81-Graph-Application.md",
+              "subpath": "#蛮力算法",
+              "title": "MST的蛮力算法：Cayley公式"
+            },
+            {
+              "type": "file",
+              "ctime": 1698567520309,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/81-Graph-Application.md",
+              "subpath": "#改进思路：极短跨边",
+              "title": "极短跨边理论：排除环路最长边、容纳割的最短边的思路"
+            },
+            {
+              "type": "file",
+              "ctime": 1698568672380,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/81-Graph-Application.md",
+              "subpath": "#Kruskal 算法：",
+              "title": "Kruskal算法的思路步骤、正确性、并查集实现"
+            },
+            {
+              "type": "file",
+              "ctime": 1698645781600,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/82-Graph-Exercise.md",
+              "subpath": "#6-1 关联矩阵",
+              "title": "有向图、无向图的关联矩阵与邻接矩阵的关系"
+            },
+            {
+              "type": "file",
+              "ctime": 1698646991033,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/82-Graph-Exercise.md",
+              "subpath": "#6-16 Prim 算法通过扰动消除由重复边引起的歧义",
+              "title": "Prim 算法通过扰动消除由重复边引起的歧义"
+            },
+            {
+              "type": "file",
+              "ctime": 1698647350425,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/82-Graph-Exercise.md",
+              "subpath": "#6-23 合成数法消除 Prim 和 Dijkstra 算法的歧义性",
+              "title": "合成数法消除 Prim 和 Dijkstra 算法的歧义性"
+            },
+            {
+              "type": "file",
+              "ctime": 1698647435151,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/82-Graph-Exercise.md",
+              "subpath": "#6-24 考查负权边和负权环对 Prim 和 Dijkstra 算法的影响",
+              "title": "考查负权边和负权环对 Prim 和 Dijkstra 算法的影响"
+            },
+            {
+              "type": "file",
+              "ctime": 1698647587819,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/82-Graph-Exercise.md",
+              "subpath": "#6-27 证明 Prim 算法在多边等权时亦然成立",
+              "title": "证明 Prim 算法在多边等权时亦然成立"
+            },
+            {
+              "type": "file",
+              "ctime": 1698647681850,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/82-Graph-Exercise.md",
+              "subpath": "#6-29 说明最坏情况的 Kruskal 算法",
+              "title": "最坏情况的 Kruskal 算法"
+            },
+            {
+              "type": "file",
+              "ctime": 1698647723723,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/82-Graph-Exercise.md",
+              "subpath": "#6-31 最短路径树不唯一问题",
+              "title": "最短路径树唯一确定吗？"
+            },
+            {
+              "type": "file",
+              "ctime": 1698734123114,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/90-Priority_Queue.md",
+              "subpath": "#完全二叉堆",
+              "title": "完全二叉堆的秩的关系：内部节点最大秩，父亲的秩，左右子的秩"
+            },
+            {
+              "type": "file",
+              "ctime": 1698734336343,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/90-Priority_Queue.md",
+              "subpath": "#逐层上滤",
+              "title": "二叉堆插入：逐层上滤步骤及效率"
+            },
+            {
+              "type": "file",
+              "ctime": 1698734436546,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/90-Priority_Queue.md",
+              "subpath": "#逐层下滤",
+              "title": "二叉堆删除：逐层下滤步骤及效率，注意ProperParent宏"
+            },
+            {
+              "type": "file",
+              "ctime": 1698735543808,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/90-Priority_Queue.md",
+              "subpath": "#自下而上的下滤",
+              "title": "Floyd建堆法详细步骤、效率、具体比较次数、不适用场景"
+            },
+            {
+              "type": "file",
+              "ctime": 1698735736666,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/90-Priority_Queue.md",
+              "subpath": "#思考",
+              "title": "大顶堆delMin操作可以达到O(logn)吗？具体是多少？"
+            },
+            {
+              "type": "file",
+              "ctime": 1698736752559,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/90-Priority_Queue.md",
+              "subpath": "#性能",
+              "title": "胜者树细节：重赛次数、性能、用以k选取的比较次数"
+            },
+            {
+              "type": "file",
+              "ctime": 1698736919890,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/90-Priority_Queue.md",
+              "subpath": "#败者树",
+              "title": "败者树细节：思路、亚军、比较次数"
+            },
+            {
+              "type": "file",
+              "ctime": 1698737126927,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/90-Priority_Queue.md",
+              "subpath": "#利用优先级队列改进 PFS 框架的思路",
+              "title": "二叉堆对图PFS的改进：优劣"
+            },
+            {
+              "type": "file",
+              "ctime": 1698737196703,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/90-Priority_Queue.md",
+              "subpath": "#多叉堆形式",
+              "title": "多叉堆秩的计算方式"
+            },
+            {
+              "type": "file",
+              "ctime": 1698737239385,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/90-Priority_Queue.md",
+              "subpath": "#多叉堆特点",
+              "title": "多叉堆特点：堆高、下滤性能、上滤性能"
+            },
+            {
+              "type": "file",
+              "ctime": 1698737318283,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/90-Priority_Queue.md",
+              "subpath": "#多叉堆实现 PFS 的优势",
+              "title": "多叉堆实现 PFS 的优势"
+            },
+            {
+              "type": "file",
+              "ctime": 1698737722339,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/90-Priority_Queue.md",
+              "subpath": "#左式堆形态",
+              "title": "左式堆的形态、实现"
+            },
+            {
+              "type": "file",
+              "ctime": 1698737873527,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/90-Priority_Queue.md",
+              "subpath": "#空节点路径长度",
+              "title": "npl的计算方式"
+            },
+            {
+              "type": "file",
+              "ctime": 1698737922920,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/90-Priority_Queue.md",
+              "subpath": "#左式堆的左倾性",
+              "title": "左式堆的左倾性如何控制？左倾性的细节性质"
+            },
+            {
+              "type": "file",
+              "ctime": 1698738067035,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/90-Priority_Queue.md",
+              "subpath": "#最右侧通路——右侧链",
+              "title": "左式堆节点数与高度关系：右侧链与长度、最浅外部节点"
+            },
+            {
+              "type": "file",
+              "ctime": 1698738305304,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/90-Priority_Queue.md",
+              "subpath": "#实例",
+              "title": "左式堆如何实现堆的合并"
+            },
+            {
+              "type": "file",
+              "ctime": 1698738399705,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/90-Priority_Queue.md",
+              "subpath": "#左式堆合并的复杂度",
+              "title": "左式堆合并的复杂度"
+            },
+            {
+              "type": "file",
+              "ctime": 1698738439019,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/90-Priority_Queue.md",
+              "subpath": "#插入与删除",
+              "title": "左式堆如何实现插入与删除"
+            },
+            {
+              "type": "file",
+              "ctime": 1698739299357,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/91-PQ-Exercise.md",
+              "subpath": "#10-4 O (1)时间确定祖先的秩",
+              "title": "二叉堆中如何在O(1)时间确定任何祖先的秩"
+            },
+            {
+              "type": "file",
+              "ctime": 1698903548051,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/E-Hash-String-Sort/A0-String.md",
+              "subpath": "#理解 `next[]` 表",
+              "title": "理解 next[] 表"
+            },
+            {
+              "type": "file",
+              "ctime": 1698903774785,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/E-Hash-String-Sort/A0-String.md",
+              "subpath": "#构造 `next[]` 表",
+              "title": "构造 next[] 表"
+            },
+            {
+              "type": "file",
+              "ctime": 1698903837994,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/E-Hash-String-Sort/A0-String.md",
+              "subpath": "#分摊分析",
+              "title": "KMP算法分摊分析复杂度"
+            },
+            {
+              "type": "file",
+              "ctime": 1698903868067,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/E-Hash-String-Sort/A0-String.md",
+              "subpath": "#改进 `next[]`",
+              "title": "改进 next[] 表"
+            },
+            {
+              "type": "file",
+              "ctime": 1698903939771,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/E-Hash-String-Sort/A0-String.md",
+              "subpath": "#适用范围",
+              "title": "KMP算法的适用情景"
+            },
+            {
+              "type": "file",
+              "ctime": 1698904185679,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/E-Hash-String-Sort/A0-String.md",
+              "subpath": "#坏字符移动的思路",
+              "title": "坏字符移动的思路"
+            },
+            {
+              "type": "file",
+              "ctime": 1698904219931,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/E-Hash-String-Sort/A0-String.md",
+              "subpath": "#构建 `bc[]` 表",
+              "title": "构建 bc[] 表、及时间复杂度"
+            },
+            {
+              "type": "file",
+              "ctime": 1698904562454,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/E-Hash-String-Sort/A0-String.md",
+              "subpath": "#性能分析",
+              "title": "坏字符策略的性能分析与适用场景"
+            },
+            {
+              "type": "file",
+              "ctime": 1698904767355,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/E-Hash-String-Sort/A0-String.md",
+              "subpath": "#好后缀的经验",
+              "title": "好后缀的思路"
+            },
+            {
+              "type": "file",
+              "ctime": 1698905015370,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/E-Hash-String-Sort/A0-String.md",
+              "subpath": "#构造 `gs[]` 表——借助最大匹配后缀串",
+              "title": "借助最大匹配后缀串构造 gs[] 表"
+            },
+            {
+              "type": "file",
+              "ctime": 1698905613701,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/E-Hash-String-Sort/A0-String.md",
+              "subpath": "#如何构造 `ss[]`？",
+              "title": "构造 ss[] 表的时间复杂度"
+            },
+            {
+              "type": "file",
+              "ctime": 1698905636251,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/E-Hash-String-Sort/A0-String.md",
+              "subpath": "#性能分析",
+              "title": "KMP、BM-BC、BM-GS策略性能分析与比较"
+            },
+            {
+              "type": "file",
+              "ctime": 1698906004357,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/E-Hash-String-Sort/A0-String.md",
+              "subpath": "#利用散列优化",
+              "title": "散列如何优化KR法？"
+            },
+            {
+              "type": "file",
+              "ctime": 1698906025558,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/E-Hash-String-Sort/A0-String.md",
+              "subpath": "#快速指纹计算",
+              "title": "快速指纹计算：方法、复杂度"
+            },
+            {
+              "type": "file",
+              "ctime": 1698907736993,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/E-Hash-String-Sort/B0-Sort.md",
+              "subpath": "#轴点划分：LUG 版",
+              "title": "轴点划分LUG版"
+            },
+            {
+              "type": "file",
+              "ctime": 1698907802299,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/E-Hash-String-Sort/B0-Sort.md",
+              "subpath": "#轴点划分：DUP 版",
+              "title": "轴点划分DUP版：应对情形、改进之处、特点"
+            },
+            {
+              "type": "file",
+              "ctime": 1698907974127,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/E-Hash-String-Sort/B0-Sort.md",
+              "subpath": "#轴点划分：LGU 版",
+              "title": "轴点划分LGU版：如何操作？"
+            },
+            {
+              "type": "file",
+              "ctime": 1698908043751,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/E-Hash-String-Sort/B0-Sort.md",
+              "subpath": "#分析递归深度",
+              "title": "快速排序递归深度的分析"
+            },
+            {
+              "type": "file",
+              "ctime": 1698908076858,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/E-Hash-String-Sort/B0-Sort.md",
+              "subpath": "#分析比较次数",
+              "title": "快速排序比较次数的分析：递推分析、后向分析"
+            },
+            {
+              "type": "file",
+              "ctime": 1698908223414,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/E-Hash-String-Sort/B0-Sort.md",
+              "subpath": "#众数与中位数",
+              "title": "众数与中位数：关系、确定众数候选的方法"
+            },
+            {
+              "type": "file",
+              "ctime": 1698908358914,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/E-Hash-String-Sort/B0-Sort.md",
+              "subpath": "#中位数选取",
+              "title": "中位数选取：减治策略及复杂度"
+            },
+            {
+              "type": "file",
+              "ctime": 1698908489832,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/E-Hash-String-Sort/B0-Sort.md",
+              "subpath": "#快速选取法",
+              "title": "k选取：基于快速化分的k选取策略、复杂度"
+            },
+            {
+              "type": "file",
+              "ctime": 1698908580897,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/E-Hash-String-Sort/B0-Sort.md",
+              "subpath": "#线性选取",
+              "title": "k选取：线性选取策略、复杂度"
+            },
+            {
+              "type": "file",
+              "ctime": 1698908731372,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/E-Hash-String-Sort/B0-Sort.md",
+              "subpath": "#输入敏感性与希尔排序性能分析",
+              "title": "输入敏感性与希尔排序性能分析"
+            },
+            {
+              "type": "file",
+              "ctime": 1698908746998,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/E-Hash-String-Sort/B0-Sort.md",
+              "subpath": "#shell 序列",
+              "title": "shell序列最后一趟复杂度为Ω(n^2)的原因"
+            },
+            {
+              "type": "file",
+              "ctime": 1698908803439,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/E-Hash-String-Sort/B0-Sort.md",
+              "subpath": "#线性组合",
+              "title": "互素元素线性组合的最大不可表示数"
+            },
+            {
+              "type": "file",
+              "ctime": 1698908852647,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/E-Hash-String-Sort/B0-Sort.md",
+              "subpath": "#有序性的保持和加强",
+              "title": "互素步长的排序后逆序对的间距"
+            },
+            {
+              "type": "file",
+              "ctime": 1698908981698,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/E-Hash-String-Sort/B0-Sort.md",
+              "subpath": "#(g, h)-sorted 时 d-sorting 的排序成本",
+              "title": "(g, h)-sorted 时 d-sorting 的排序成本"
+            },
+            {
+              "type": "file",
+              "ctime": 1698909005365,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/E-Hash-String-Sort/B0-Sort.md",
+              "subpath": "#Papernov-Stasevic Seq",
+              "title": "PS步长序列的时间复杂度"
+            },
+            {
+              "type": "file",
+              "ctime": 1698909047998,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/E-Hash-String-Sort/B0-Sort.md",
+              "subpath": "#Pratt Seq",
+              "title": "Pratt步长序列的时间复杂度"
+            },
+            {
+              "type": "file",
+              "ctime": 1698909079127,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/E-Hash-String-Sort/B0-Sort.md",
+              "subpath": "#Sedgewick Seq",
+              "title": "Sedgewick步长序列的时间复杂度"
+            },
+            {
+              "type": "file",
+              "ctime": 1698909377832,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/E-Hash-String-Sort/B1-Sort-Exercise.md",
+              "subpath": "#12-10 基于 `median()` 算法设计 k-selection 算法",
+              "title": "如何基于中位数选取算法实现k选取？"
+            },
+            {
+              "type": "file",
+              "ctime": 1698910614442,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/E-Hash-String-Sort/B1-Sort-Exercise.md",
+              "subpath": "#12-14 Pratt 序列分析",
+              "title": "Pratt序列的详细分析"
+            }
+          ],
+          "title": "知识点细节"
+        },
+        {
+          "type": "group",
+          "ctime": 1697703064545,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1697703072225,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/A-Introduction/16-Stirling-Approximation.md",
+              "subpath": "#Intro",
+              "title": "Stirling渐进"
+            },
+            {
+              "type": "file",
+              "ctime": 1697703106362,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/A-Introduction/15-Little-o-notation.md",
+              "title": "Little-o-notation"
+            },
+            {
+              "type": "file",
+              "ctime": 1697703136858,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/A-Introduction/14-Lowerbound-analyze.md",
+              "subpath": "#线性规约",
+              "title": "线性规约Linear reduction"
+            },
+            {
+              "type": "file",
+              "ctime": 1697703177173,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/A-Introduction/14-Lowerbound-analyze.md",
+              "subpath": "#CBA排序算法下界",
+              "title": "CBA排序算法下界分析(比较树)"
+            },
+            {
+              "type": "file",
+              "ctime": 1697784909206,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/A-Introduction/13-Dynamic-Programming.md",
+              "title": "动态规划"
+            },
+            {
+              "type": "file",
+              "ctime": 1697866313856,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/B-Vector+List/21-Vector-Exercise.md",
+              "subpath": "#2-6 permute 生成随机排列",
+              "title": "Fisher 随机数生成算法与分析"
+            },
+            {
+              "type": "file",
+              "ctime": 1697866597733,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/B-Vector+List/21-Vector-Exercise.md",
+              "subpath": "#2-12-d deduplicate ()可以改进到什么地步？",
+              "title": "无序向量唯一化的时间下界"
+            },
+            {
+              "type": "file",
+              "ctime": 1694013820245,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/B-Vector+List/21-Vector-Exercise.md",
+              "subpath": "#2-21 指数查找 expSearch",
+              "title": "指数查找"
+            },
+            {
+              "type": "file",
+              "ctime": 1697867052780,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/B-Vector+List/21-Vector-Exercise.md",
+              "subpath": "#2-22 马鞍查找——二维向量查找",
+              "title": "马鞍查找"
+            },
+            {
+              "type": "file",
+              "ctime": 1697867457235,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/B-Vector+List/21-Vector-Exercise.md",
+              "subpath": "#2-23 判断分支深入的代价严重不对称的查找",
+              "title": "鸡蛋查找：分支深入代价严重不对称"
+            },
+            {
+              "type": "file",
+              "ctime": 1697868571905,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/B-Vector+List/24-Bitmap.md",
+              "title": "Bitmap"
+            },
+            {
+              "type": "file",
+              "ctime": 1697870106803,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/B-Vector+List/22-In-place-mergeSort.md",
+              "title": "In-place mergesort"
+            },
+            {
+              "type": "file",
+              "ctime": 1697870122531,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/B-Vector+List/23-N-way-merge.md",
+              "title": "N-way merge"
+            },
+            {
+              "type": "file",
+              "ctime": 1697952814125,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/B-Vector+List/31-List-Exercise.md",
+              "subpath": "#3-6 自调整列表",
+              "title": "自调整列表"
+            },
+            {
+              "type": "file",
+              "ctime": 1697955817752,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/C-Stack+Queue/41-Stack-queue-Exercise.md",
+              "subpath": "#4-24 孪生栈",
+              "title": "孪生栈"
+            },
+            {
+              "type": "file",
+              "ctime": 1697955872643,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/C-Stack+Queue/41-Stack-queue-Exercise.md",
+              "subpath": "#4-18 费马-拉格朗日分解",
+              "title": "费马-拉格朗日分解"
+            },
+            {
+              "type": "file",
+              "ctime": 1697955909625,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/C-Stack+Queue/42-Catalan.md",
+              "subpath": "#Applications",
+              "title": "Catalan数实例(14个)"
+            },
+            {
+              "type": "file",
+              "ctime": 1698050231098,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/D-Tree+BST+BBST/51-Tree-Exercise.md",
+              "subpath": "#5-30 键树 Trie",
+              "title": "键树Trie"
+            },
+            {
+              "type": "file",
+              "ctime": 1698388167554,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/D-Tree+BST+BBST/62-BST-Exercise.md",
+              "subpath": "#7-15-补 证明对等价 BBST 不能在 O (logn)时间内互相转换",
+              "title": "如何证明两棵等价BBST在O(logn)时间内不能完成彼此转换"
+            },
+            {
+              "type": "file",
+              "ctime": 1698389275521,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/D-Tree+BST+BBST/62-BST-Exercise.md",
+              "subpath": "#soulution 2 (correct)",
+              "title": "何种插入关键码的次序使 BTree 高度最小"
+            },
+            {
+              "type": "file",
+              "ctime": 1698390001005,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/D-Tree+BST+BBST/62-BST-Exercise.md",
+              "subpath": "#8-9 B* 树",
+              "title": "B* 树及其优点"
+            },
+            {
+              "type": "file",
+              "ctime": 1698390613991,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/D-Tree+BST+BBST/68-B+Tree.md",
+              "title": "B+树"
+            },
+            {
+              "type": "file",
+              "ctime": 1698395225288,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/D-Tree+BST+BBST/64-Height-BBST-vs-Weight-BBST.md",
+              "title": "Height-BBST vs. Weight-BBST"
+            },
+            {
+              "type": "file",
+              "ctime": 1698395341507,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/D-Tree+BST+BBST/66-Fib-sequence-and-worst-AVL-trees.md",
+              "title": "斐波那契序列与最差AVL树的证明"
+            },
+            {
+              "type": "file",
+              "ctime": 1698558189221,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/80-Graph.md",
+              "subpath": "#二分图",
+              "title": "二分图"
+            },
+            {
+              "type": "file",
+              "ctime": 1698645738805,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/86-SPT-OIwiki.md",
+              "subpath": "#Floyd-Warshall 算法",
+              "title": "Floyd-Warshall 算法求 SPT"
+            },
+            {
+              "type": "file",
+              "ctime": 1698647754898,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/82-Graph-Exercise.md",
+              "subpath": "#6-32 欧式最小支撑树",
+              "title": "欧式最小支撑树"
+            },
+            {
+              "type": "file",
+              "ctime": 1698647782394,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/84-并查集.md",
+              "title": "并查集"
+            },
+            {
+              "type": "file",
+              "ctime": 1698659860058,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/87-Strongly-Connected-Components.md",
+              "title": "强连通分量的求解方法"
+            },
+            {
+              "type": "file",
+              "ctime": 1698737591429,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/93-Fibonacci-heap.md",
+              "title": "Fibonacci-heap"
+            },
+            {
+              "type": "file",
+              "ctime": 1698738506556,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/92-Min-max-heap.md",
+              "title": "Min-max heap"
+            },
+            {
+              "type": "file",
+              "ctime": 1698739576827,
+              "path": "1-Theory/2-DataStruct/dsa-cpp-deng/F-Graph-PQ/95-Skew-heap.md",
+              "title": "Skew heap"
+            }
+          ],
+          "title": "拓展延伸"
+        }
+      ],
+      "title": "DSA-cpp-deng"
+    },
+    {
+      "type": "group",
+      "ctime": 1694869807484,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1694869858991,
+          "path": "1-Theory/5-OS-principle/rCore-tutorial/0-OS-overview/30-OS-abstraction.md",
+          "subpath": "#普通控制流",
+          "title": "Common Control Flow"
+        },
+        {
+          "type": "file",
+          "ctime": 1694870055231,
+          "path": "1-Theory/5-OS-principle/rCore-tutorial/0-OS-overview/30-OS-abstraction.md",
+          "subpath": "#异常控制流",
+          "title": "Exceptional Control Flow"
+        },
+        {
+          "type": "file",
+          "ctime": 1695109259318,
+          "path": "1-Theory/5-OS-principle/rCore-tutorial/1-App-basic-exec-env/30-Qemu-boot-and-compile-process.md",
+          "subpath": "#^662cbb",
+          "title": "真实计算机的加电启动过程"
+        },
+        {
+          "type": "file",
+          "ctime": 1695111035079,
+          "path": "1-Theory/5-OS-principle/rCore-tutorial/1-App-basic-exec-env/30-Qemu-boot-and-compile-process.md",
+          "subpath": "#编译流程",
+          "title": "编译流程"
+        },
+        {
+          "type": "file",
+          "ctime": 1695119674413,
+          "path": "1-Theory/5-OS-principle/rCore-tutorial/1-App-basic-exec-env/50-Support-func-call-for-kernel.md",
+          "subpath": "#^8eaaaf",
+          "title": "riscv中如何实现函数调用返回？"
+        },
+        {
+          "type": "group",
+          "ctime": 1695533698795,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1695533637471,
+              "path": "1-Theory/5-OS-principle/rCore-tutorial/3-Multiprog-and-time-sharing/40-Time-sharing-preemptive.md",
+              "subpath": "#^9359cd",
+              "title": "第三章新增syscall-sys_get_time"
+            },
+            {
+              "type": "file",
+              "ctime": 1696323258560,
+              "path": "1-Theory/5-OS-principle/rCore-tutorial/6-File-system/10-Interface.md",
+              "subpath": "#文件打开",
+              "title": "sys_open"
+            }
+          ],
+          "title": "syscall"
+        },
+        {
+          "type": "file",
+          "ctime": 1695634564666,
+          "path": "1-Theory/5-OS-principle/rCore-tutorial/4-Memory-address/40-Manage-SV39-multilevel-pagetable.md",
+          "subpath": "#^4e745d",
+          "title": "多级页表的恒等映射"
+        },
+        {
+          "type": "group",
+          "ctime": 1695895111494,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1696257570879,
+              "path": "1-Theory/5-OS-principle/rCore-tutorial/5-Process/40-Scheduling.md",
+              "subpath": "#^439fb0",
+              "title": "Lottery调度"
+            },
+            {
+              "type": "file",
+              "ctime": 1695895133383,
+              "path": "1-Theory/5-OS-principle/rCore-tutorial/5-Process/10-Concepts-and-syscall.md",
+              "subpath": "#^87a5b4",
+              "title": "僵尸进程"
+            },
+            {
+              "type": "file",
+              "ctime": 1697711502036,
+              "path": "1-Theory/5-OS-principle/rCore-tutorial/Practice/2-批处理操作系统.md",
+              "subpath": "#^5fa656",
+              "title": "地址空间布局随机化ASLR"
+            }
+          ],
+          "title": "琐碎概念"
+        },
+        {
+          "type": "group",
+          "ctime": 1697711353246,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1697711368801,
+              "path": "1-Theory/5-OS-principle/rCore-tutorial/Practice/2-批处理操作系统.md",
+              "subpath": "#函数调用与系统调用区别",
+              "title": "函数调用与系统调用区别"
+            },
+            {
+              "type": "file",
+              "ctime": 1697711452787,
+              "path": "1-Theory/5-OS-principle/rCore-tutorial/Practice/2-批处理操作系统.md",
+              "subpath": "#用户程序库形式的 OS 被破坏的方式",
+              "title": "用户程序库形式的 OS 被破坏的方式"
+            },
+            {
+              "type": "file",
+              "ctime": 1697711488355,
+              "path": "1-Theory/5-OS-principle/rCore-tutorial/Practice/2-批处理操作系统.md",
+              "subpath": "#编译器/CPU/OS 合作避免破坏",
+              "title": "编译器/CPU/OS 合作避免破坏"
+            },
+            {
+              "type": "file",
+              "ctime": 1697711623526,
+              "path": "1-Theory/5-OS-principle/rCore-tutorial/Practice/2-批处理操作系统.md",
+              "subpath": "#Trap 上下文的理解",
+              "title": "Trap 上下文的理解"
+            },
+            {
+              "type": "file",
+              "ctime": 1697787508806,
+              "path": "1-Theory/5-OS-principle/rCore-tutorial/Practice/3-多道程序与分时多任务.md",
+              "subpath": "#任务地址空间中的数据和代码段类型",
+              "title": "任务地址空间中的数据和代码段类型"
+            },
+            {
+              "type": "file",
+              "ctime": 1697787611865,
+              "path": "1-Theory/5-OS-principle/rCore-tutorial/Practice/3-多道程序与分时多任务.md",
+              "subpath": "#特权级上下文和任务上下文的异同",
+              "title": "特权级上下文和任务上下文的异同"
+            },
+            {
+              "type": "file",
+              "ctime": 1697787767741,
+              "path": "1-Theory/5-OS-principle/rCore-tutorial/Practice/3-多道程序与分时多任务.md",
+              "subpath": "#上下文切换需要使用汇编语言实现的原因",
+              "title": "上下文切换需要使用汇编语言实现的原因"
+            },
+            {
+              "type": "file",
+              "ctime": 1697877532017,
+              "path": "1-Theory/5-OS-principle/rCore-tutorial/Practice/4-地址空间.md",
+              "subpath": "#覆盖、交换、虚存的异同",
+              "title": "覆盖、交换、虚存的异同"
+            },
+            {
+              "type": "file",
+              "ctime": 1697877938747,
+              "path": "1-Theory/5-OS-principle/rCore-tutorial/Practice/4-地址空间.md",
+              "subpath": "#缺页异常的次数",
+              "title": "一次load会最多触发多少次缺页异常？"
+            },
+            {
+              "type": "file",
+              "ctime": 1697878281487,
+              "path": "1-Theory/5-OS-principle/rCore-tutorial/Practice/4-地址空间.md",
+              "subpath": "#嵌套 page fault",
+              "title": "当中断处理函数中发生缺页异常"
+            },
+            {
+              "type": "file",
+              "ctime": 1697879576225,
+              "path": "1-Theory/5-OS-principle/rCore-tutorial/Practice/4-地址空间.md",
+              "subpath": "#全局置换算法与局部置换算法",
+              "title": "全局置换算法与局部置换算法"
+            },
+            {
+              "type": "file",
+              "ctime": 1697879707628,
+              "path": "1-Theory/5-OS-principle/rCore-tutorial/Practice/4-地址空间.md",
+              "subpath": "#belady 现象",
+              "title": "Belady现象出现的原因"
+            },
+            {
+              "type": "file",
+              "ctime": 1697879885779,
+              "path": "1-Theory/5-OS-principle/rCore-tutorial/Practice/4-地址空间.md",
+              "subpath": "#SV39 页表项的标志位作用",
+              "title": "SV39页表项的标志位作用"
+            },
+            {
+              "type": "file",
+              "ctime": 1697880157385,
+              "path": "1-Theory/5-OS-principle/rCore-tutorial/Practice/4-地址空间.md",
+              "subpath": "#页面置换的 lazy 和 swap 策略",
+              "title": "页面置换的 lazy 和 swap 策略"
+            },
+            {
+              "type": "file",
+              "ctime": 1697880643117,
+              "path": "1-Theory/5-OS-principle/rCore-tutorial/Practice/4-地址空间.md",
+              "subpath": "#内核与进程共用/各有页表的分析",
+              "title": "内核与进程共用/各有页表的分析"
+            },
+            {
+              "type": "file",
+              "ctime": 1697882082376,
+              "path": "1-Theory/5-OS-principle/rCore-tutorial/Practice/5-进程.md",
+              "subpath": "#fork + exec 的问题与改进",
+              "title": "fork + exec 的问题与改进"
+            },
+            {
+              "type": "file",
+              "ctime": 1697960611950,
+              "path": "1-Theory/5-OS-principle/rCore-tutorial/Practice/5-进程.md",
+              "subpath": "#RR 算法时间片长短的性能影响",
+              "title": "RR 算法时间片长短的性能影响"
+            },
+            {
+              "type": "file",
+              "ctime": 1697960661895,
+              "path": "1-Theory/5-OS-principle/rCore-tutorial/Practice/5-进程.md",
+              "subpath": "#欺骗 MLFQ 算法的方式",
+              "title": "欺骗 MLFQ 算法的方式"
+            },
+            {
+              "type": "file",
+              "ctime": 1697960706629,
+              "path": "1-Theory/5-OS-principle/rCore-tutorial/Practice/5-进程.md",
+              "subpath": "#多核处理器对线程调度的挑战",
+              "title": "多核处理器对线程调度的挑战"
+            },
+            {
+              "type": "file",
+              "ctime": 1697964075184,
+              "path": "1-Theory/5-OS-principle/rCore-tutorial/5-Process/41-Stride-schedule.md",
+              "title": "stride调度"
+            },
+            {
+              "type": "file",
+              "ctime": 1697964590808,
+              "path": "1-Theory/5-OS-principle/rCore-tutorial/Practice/6-文件系统.md",
+              "subpath": "#为什么要同时维护进程的打开文件表和操作系统的打开文件表",
+              "title": "为什么要同时维护进程的打开文件表和操作系统的打开文件表"
+            },
+            {
+              "type": "file",
+              "ctime": 1697964607560,
+              "path": "1-Theory/5-OS-principle/rCore-tutorial/Practice/6-文件系统.md",
+              "subpath": "#文件目录中出现环路",
+              "title": "文件目录中出现环路怎么解决？"
+            },
+            {
+              "type": "file",
+              "ctime": 1697964656080,
+              "path": "1-Theory/5-OS-principle/rCore-tutorial/Practice/6-文件系统.md",
+              "subpath": "#文件分配的三种方式",
+              "title": "文件分配的三种方式"
+            },
+            {
+              "type": "file",
+              "ctime": 1697964694498,
+              "path": "1-Theory/5-OS-principle/rCore-tutorial/Practice/6-文件系统.md",
+              "subpath": "#没有及时关闭文件描述符的后果",
+              "title": "没有及时关闭文件描述符的后果"
+            },
+            {
+              "type": "file",
+              "ctime": 1697964775424,
+              "path": "1-Theory/5-OS-principle/rCore-tutorial/Practice/6-文件系统.md",
+              "subpath": "#实现用户态文件系统的思路",
+              "title": "实现用户态文件系统的思路"
+            },
+            {
+              "type": "file",
+              "ctime": 1698054130829,
+              "path": "1-Theory/5-OS-principle/rCore-tutorial/Practice/7-进程间通信与IO重定向.md",
+              "subpath": "#直接通信和间接通信的本质区别",
+              "title": "直接通信和间接通信的本质区别是什么？"
+            },
+            {
+              "type": "file",
+              "ctime": 1698054190510,
+              "path": "1-Theory/5-OS-principle/rCore-tutorial/Practice/7-进程间通信与IO重定向.md",
+              "subpath": "#signal 机制的内核实现思路",
+              "title": "signal 机制的内核实现思路"
+            },
+            {
+              "type": "file",
+              "ctime": 1698054456903,
+              "path": "1-Theory/5-OS-principle/rCore-tutorial/Practice/7-进程间通信与IO重定向.md",
+              "subpath": "#普通管道和匿名管道的异同",
+              "title": "普通管道和匿名管道的异同"
+            },
+            {
+              "type": "file",
+              "ctime": 1698056043378,
+              "path": "1-Theory/5-OS-principle/rCore-tutorial/Practice/7-进程间通信与IO重定向.md",
+              "subpath": "#消息队列的特征与适用场景",
+              "title": "消息队列的特征与适用场景"
+            },
+            {
+              "type": "file",
+              "ctime": 1698056410341,
+              "path": "1-Theory/5-OS-principle/rCore-tutorial/Practice/7-进程间通信与IO重定向.md",
+              "subpath": "#共享机制的特征和适用场景",
+              "title": "共享内存机制的特征和适用场景"
+            },
+            {
+              "type": "file",
+              "ctime": 1698057884075,
+              "path": "1-Theory/5-OS-principle/rCore-tutorial/Practice/7-进程间通信与IO重定向.md",
+              "subpath": "#Bash 中 Ctrl+C 产生的信号和处理流程",
+              "title": "Bash 中 Ctrl+C 产生的信号和处理流程"
+            },
+            {
+              "type": "file",
+              "ctime": 1698057900051,
+              "path": "1-Theory/5-OS-principle/rCore-tutorial/Practice/7-进程间通信与IO重定向.md",
+              "subpath": "#Bash 中 Ctrl+Z 产生的信号和处理流程",
+              "title": "Bash 中 Ctrl+Z 产生的信号和处理流程"
+            },
+            {
+              "type": "file",
+              "ctime": 1698058116761,
+              "path": "1-Theory/5-OS-principle/rCore-tutorial/Practice/7-进程间通信与IO重定向.md",
+              "subpath": "#问答作业",
+              "title": "_sync_synchronize()的作用"
+            },
+            {
+              "type": "file",
+              "ctime": 1698143134509,
+              "path": "1-Theory/5-OS-principle/rCore-tutorial/Practice/8-并发.md",
+              "subpath": "#单核和多核的并发处理",
+              "title": "单核和多核的并发处理"
+            },
+            {
+              "type": "file",
+              "ctime": 1698145422608,
+              "path": "1-Theory/5-OS-principle/rCore-tutorial/Practice/8-并发.md",
+              "subpath": "#互斥锁和自旋锁的差异",
+              "title": "互斥锁和自旋锁的差异"
+            },
+            {
+              "type": "file",
+              "ctime": 1698145618017,
+              "path": "1-Theory/5-OS-principle/rCore-tutorial/Practice/8-并发.md",
+              "subpath": "#Peterson 算法的 safety 和 liveness 性质",
+              "title": "Peterson 算法的 safety 和 liveness 性质"
+            },
+            {
+              "type": "file",
+              "ctime": 1698146712301,
+              "path": "1-Theory/5-OS-principle/rCore-tutorial/Practice/8-并发.md",
+              "subpath": "#PV 操作的原子性如何实现？",
+              "title": "PV 操作的原子性如何实现？"
+            },
+            {
+              "type": "file",
+              "ctime": 1698146853419,
+              "path": "1-Theory/5-OS-principle/rCore-tutorial/Practice/8-并发.md",
+              "subpath": "#条件变量 wait 操作",
+              "title": "条件变量 wait 操作为什么必须关联锁？"
+            },
+            {
+              "type": "file",
+              "ctime": 1698147027825,
+              "path": "1-Theory/5-OS-principle/rCore-tutorial/Practice/8-并发.md",
+              "subpath": "#死锁预防如何实现？",
+              "title": "死锁预防如何实现？"
+            },
+            {
+              "type": "file",
+              "ctime": 1698147072429,
+              "path": "1-Theory/5-OS-principle/rCore-tutorial/Practice/8-并发.md",
+              "subpath": "#银行家算法如何判断安全性？",
+              "title": "银行家算法如何判断安全性？"
+            },
+            {
+              "type": "file",
+              "ctime": 1698235864603,
+              "path": "1-Theory/5-OS-principle/rCore-tutorial/Practice/9-设备IO.md",
+              "subpath": "#五种 I/O 模型",
+              "title": "五种 I/O 模型"
+            },
+            {
+              "type": "file",
+              "ctime": 1698235935268,
+              "path": "1-Theory/5-OS-principle/rCore-tutorial/Practice/9-设备IO.md",
+              "subpath": "#I/O 的三种传输方式",
+              "title": "I/O 的三种传输方式"
+            }
+          ],
+          "title": "简答题"
+        },
+        {
+          "type": "group",
+          "ctime": 1697711530985,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1697711388024,
+              "path": "1-Theory/5-OS-principle/rCore-tutorial/Practice/2-批处理操作系统.md",
+              "subpath": "#异常/中断的委托",
+              "title": "RISC-V异常/中断的委托"
+            },
+            {
+              "type": "file",
+              "ctime": 1697711550149,
+              "path": "1-Theory/5-OS-principle/rCore-tutorial/Practice/2-批处理操作系统.md",
+              "subpath": "#RISC-V 的 S 态特权指令介绍",
+              "title": "RISC-V 的 S 态特权指令介绍"
+            },
+            {
+              "type": "file",
+              "ctime": 1697711575901,
+              "path": "1-Theory/5-OS-principle/rCore-tutorial/Practice/2-批处理操作系统.md",
+              "subpath": "#RISC-V 的 trap 硬件操作",
+              "title": "RISC-V 的 trap 硬件操作"
+            },
+            {
+              "type": "file",
+              "ctime": 1697711597454,
+              "path": "1-Theory/5-OS-principle/rCore-tutorial/Practice/2-批处理操作系统.md",
+              "subpath": "#RISC-V 支持的中断/异常及细节",
+              "title": "RISC-V 支持的中断/异常及细节"
+            },
+            {
+              "type": "file",
+              "ctime": 1697787148044,
+              "path": "1-Theory/5-OS-principle/rCore-tutorial/Practice/3-多道程序与分时多任务.md",
+              "subpath": "#如何判断进入 OS 内核的起因是调用还是异常？",
+              "title": "判断进入 OS 内核的起因是调用还是异常"
+            },
+            {
+              "type": "file",
+              "ctime": 1697787213653,
+              "path": "1-Theory/5-OS-principle/rCore-tutorial/Practice/3-多道程序与分时多任务.md",
+              "subpath": "#中断机制中 PLIC 和 CLINT",
+              "title": "中断机制中 PLIC 和 CLINT 的作用"
+            },
+            {
+              "type": "file",
+              "ctime": 1697787270056,
+              "path": "1-Theory/5-OS-principle/rCore-tutorial/Practice/3-多道程序与分时多任务.md",
+              "subpath": "#RISC-V 中断嵌套",
+              "title": "RISC-V 中断嵌套"
+            },
+            {
+              "type": "file",
+              "ctime": 1697787852695,
+              "path": "1-Theory/5-OS-principle/rCore-tutorial/Practice/3-多道程序与分时多任务.md",
+              "subpath": "#Linux 与 RISC-V",
+              "title": "Linux与RISC-V"
+            }
+          ],
+          "title": "RISC-V相关"
+        }
+      ],
+      "title": "rCore-tips"
+    }
+  ]
+}

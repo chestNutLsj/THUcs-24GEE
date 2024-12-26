@@ -1,0 +1,16 @@
+{
+  "pluginList": [
+    "l1xnan/obsidian-better-export-pdf",
+    "Yaozhuwa/easy-typing-obsidian"
+  ],
+  "pluginSubListFrozenVersion": [],
+  "themesList": [],
+  "updateAtStartup": false,
+  "updateThemesAtStartup": true,
+  "ribbonIconEnabled": true,
+  "loggingEnabled": false,
+  "loggingPath": "BRAT-log",
+  "loggingVerboseEnabled": false,
+  "debuggingMode": true,
+  "notificationsEnabled": true
+}
