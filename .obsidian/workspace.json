@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "0-经验/912前人经验.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "912前人经验"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "0-经验/912前人经验.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "README 的反向链接列表"
+              "title": "912前人经验 的反向链接列表"
             }
           },
           {
@@ -171,10 +171,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "0-经验/912前人经验.md"
               },
               "icon": "lucide-list",
-              "title": "README 的大纲"
+              "title": "912前人经验 的大纲"
             }
           },
           {
@@ -209,20 +209,20 @@
   },
   "active": "8daa9c2cfe0f4d6b",
   "lastOpenFiles": [
-    "4-912/1-ProgramLanguage/Cpp/C++学习之路.md",
-    "1-政治/大题套路.md",
-    "2-英语/README.md",
-    "3-数学/README.md",
-    "0-经验/912前人经验.md",
     "0-经验/mario佬机试经验贴 - 知乎.pdf",
     "0-经验/从关山口到五道口（四）2023跨考网研院全程回顾 - 清华大学 - 王道论坛,专注于计算机考研的点点滴滴！ - Powered by Discuz!.pdf",
+    "0-经验/912前人经验.md",
+    "2-英语/README.md",
+    "3-数学/README.md",
+    "4-912/计网笔记(自顶向下).pdf",
     "README.md",
+    "4-912/1-ProgramLanguage/Cpp/C++学习之路.md",
+    "1-政治/大题套路.md",
     "4-912/6-Network/Top-to-down/20-Application-layer.md",
     "4-912/OS笔记(rCore).pdf",
     "4-912/OS笔记(精髓与设计原理).pdf",
     "4-912/DS笔记.pdf",
     "4-912/计组笔记(PPT).pdf",
-    "4-912/计网笔记(自顶向下).pdf",
     "4-912/bookmarks-keypoint.json",
     "OS笔记(rCore).pdf",
     "OS笔记(精髓与设计原理).pdf",
@@ -245,7 +245,6 @@
     "4-912/2-DataStruct/dsa-cpp-deng/A-Introduction/10-Introduction.md",
     "4-912/2-DataStruct/dsa-c-yan/91-静态最优查找树.md",
     "4-912/2-DataStruct/dsa-c-yan/92-次优查找树.md",
-    "4-912/2-DataStruct/dsa-c-yan/93-键树.md",
     "4-912/1-ProgramLanguage/Cpp/2-STL/5-adapter/1-container-adapter/assets/stl-stack.png",
     "4-912/1-ProgramLanguage/Cpp/2-STL/5-adapter/1-container-adapter/assets/queue.png",
     "4-912/1-ProgramLanguage/Cpp/2-STL/5-adapter/1-container-adapter/assets/heap-max-min.png",
